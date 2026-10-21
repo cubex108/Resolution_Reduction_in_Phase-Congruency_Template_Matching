@@ -1,0 +1,1639 @@
+{
+  "signature": "eb5e62670266a9f0e0f6a44d1f4da54c1877a6a8220615f9ba54dd97d374576e",
+  "rows_hash": "043f8ffaa99bfb5515adf86e5f55b69da7cdfc19c09661eb1dc0b714c46f4e50",
+  "rows": [
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 40.24922359499622,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20,
+        38
+      ],
+      "true_top_left": [
+        56,
+        56
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.14645762704053888
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 41.14608122288197,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        14,
+        38
+      ],
+      "true_top_left": [
+        51,
+        56
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.14447373575848235
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 40.70626487409524,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20,
+        32
+      ],
+      "true_top_left": [
+        56,
+        51
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.15837845241028814
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 40.24922359499622,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        10,
+        28
+      ],
+      "true_top_left": [
+        46,
+        46
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.14645762704053888
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 64.07027391856539,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        12,
+        38
+      ],
+      "true_top_left": [
+        76,
+        41
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.18131331759679808
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 20.8806130178211,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        10,
+        66
+      ],
+      "true_top_left": [
+        16,
+        86
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.12095354952667092
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 40.24922359499622,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20,
+        38
+      ],
+      "true_top_left": [
+        56,
+        56
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.14645762704053888
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 47.57439182724396,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.871322650178683,
+          -0.003507724040108365,
+          8.831325407807276
+        ],
+        [
+          -0.08987178076140055,
+          0.8422349145108394,
+          -17.469209632835835
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 51.15684299085964,
+      "status": "ok",
+      "matches": 101,
+      "inliers": 10,
+      "trials": 7114,
+      "keypoints_a": 552,
+      "keypoints_b": 602
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 62.12889826803627,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        108.0,
+        90.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 72.47068372797375,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        102.0,
+        112.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 24.08318915758459,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        40.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 21.2602916254693,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        42.0,
+        40.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        24.0,
+        38.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        24.0,
+        38.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 53.665631459994955,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        104.0,
+        80.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 18.439088914585774,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        68.0
+      ],
+      "true_top_left": [
+        56.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 63.60031446463138,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0,
+        38
+      ],
+      "true_top_left": [
+        61,
+        56
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.15989498746840258
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 68.2737995810348,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          1.0894630647369157,
+          0.04799841696335789,
+          -16.550851164232565
+        ],
+        [
+          0.0707454216593018,
+          -0.09793881128842477,
+          59.475923456157446
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 112.48811825837127,
+      "status": "ok",
+      "matches": 101,
+      "inliers": 7,
+      "trials": 10000,
+      "keypoints_a": 552,
+      "keypoints_b": 487
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 60.207972893961475,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        112.0,
+        88.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 73.10950690573696,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        108.0,
+        112.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 24.839484696748443,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        42.0,
+        40.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 21.93171219946131,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        46.0,
+        40.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 35.84689665786984,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        30.0,
+        38.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 35.84689665786984,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        30.0,
+        38.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 57.55866572463264,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        4.0,
+        48.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 10.04987562112089,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        62.0,
+        46.0
+      ],
+      "true_top_left": [
+        61.0,
+        56.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 40.70626487409524,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20,
+        42
+      ],
+      "true_top_left": [
+        56,
+        61
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.15695174991004815
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 49.10202386528004,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.9666536620929952,
+          -0.06830653824016616,
+          8.875793308432485
+        ],
+        [
+          -0.3177549883528228,
+          0.22642687016232865,
+          82.01342803037268
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 85.66290550649494,
+      "status": "ok",
+      "matches": 101,
+      "inliers": 8,
+      "trials": 10000,
+      "keypoints_a": 552,
+      "keypoints_b": 521
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 59.405386961116584,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        104.0,
+        96.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 44.28317965096906,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        12.0,
+        56.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 20.808652046684813,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        44.0,
+        44.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 19.4164878389476,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        52.0,
+        42.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 39.81205847478876,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20.0,
+        44.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 38.01315561749642,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        22.0,
+        44.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 31.76476034853718,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        28.0,
+        46.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 20.12461179749811,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        52.0
+      ],
+      "true_top_left": [
+        56.0,
+        61.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 64.1248781675256,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        2,
+        62
+      ],
+      "true_top_left": [
+        66,
+        66
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.1795599643095172
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 70.90795178424345,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          1.015403700145058,
+          -0.0008468844704768441,
+          4.093517438087961
+        ],
+        [
+          -0.20218558841627884,
+          -0.10475541014534417,
+          95.39403973311832
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 111.4274830977452,
+      "status": "ok",
+      "matches": 111,
+      "inliers": 9,
+      "trials": 10000,
+      "keypoints_a": 552,
+      "keypoints_b": 596
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 56.0357029044876,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        112.0,
+        98.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 35.4400902933387,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        32.0,
+        56.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 32.2490309931942,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        50.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 21.2602916254693,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        52.0,
+        50.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        34.0,
+        48.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        34.0,
+        48.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 65.11528238439882,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        2.0,
+        78.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 18.439088914585774,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        80.0,
+        78.0
+      ],
+      "true_top_left": [
+        66.0,
+        66.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 40.70626487409524,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0,
+        52
+      ],
+      "true_top_left": [
+        36,
+        71
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.15624741618011462
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 31.14292095424144,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.813313214995423,
+          0.04540974503554823,
+          23.455871093337894
+        ],
+        [
+          0.068095001250121,
+          0.2036685169258382,
+          37.04307114725224
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 74.724890371114,
+      "status": "ok",
+      "matches": 116,
+      "inliers": 10,
+      "trials": 10000,
+      "keypoints_a": 552,
+      "keypoints_b": 607
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 59.405386961116584,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        84.0,
+        106.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 82.85529554590944,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        108.0,
+        112.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 20.808652046684813,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        24.0,
+        54.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 30.01666203960727,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        10.0,
+        56.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 39.81205847478876,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        54.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 39.81205847478876,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        54.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 40.607881008493905,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        46.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 68.47627326307996,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        38.0
+      ],
+      "true_top_left": [
+        36.0,
+        71.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 78.10249675906654,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        18,
+        22
+      ],
+      "true_top_left": [
+        96,
+        26
+      ],
+      "valid_candidates": 3249,
+      "peak": 0.18969122109640868
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 39.63675349290387,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.8955368899253365,
+          -0.025133646375867624,
+          -19.995535530821048
+        ],
+        [
+          -0.21036384298173985,
+          0.36884853590154654,
+          101.3053014217442
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 56.62531211822682,
+      "status": "ok",
+      "matches": 107,
+      "inliers": 7,
+      "trials": 10000,
+      "keypoints_a": 552,
+      "keypoints_b": 762
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 87.47571091451616,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        112.0,
+        112.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 96.51942809610924,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        36.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 24.08318915758459,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        78.0,
+        10.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 21.2602916254693,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        82.0,
+        10.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        64.0,
+        8.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 36.71511950137164,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        64.0,
+        8.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 78.02563681252464,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        18.0,
+        24.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_08228",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 78.10249675906654,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        100.0,
+        104.0
+      ],
+      "true_top_left": [
+        96.0,
+        26.0
+      ]
+    }
+  ],
+  "diagnostic_parallel_wall_seconds": 12.105634000035934
+}

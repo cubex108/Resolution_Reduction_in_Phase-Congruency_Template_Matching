@@ -1,0 +1,1050 @@
+{
+  "signature": "eb5e62670266a9f0e0f6a44d1f4da54c1877a6a8220615f9ba54dd97d374576e",
+  "observation_rows": 8052,
+  "zero_shift_primary_checks": 976,
+  "configuration_summaries": [
+    {
+      "arm": "prior_offset",
+      "dataset": "SAR",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 6,
+      "success_rate": 0.01,
+      "success_ci95": [
+        0.0,
+        0.028333333333333335
+      ],
+      "valid_rmse": 48.58854460329787,
+      "valid_rmse_ci95": [
+        45.730334570755616,
+        51.35505168264132
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "prior_offset",
+      "dataset": "Label",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 11,
+      "success_rate": 0.1527777777777778,
+      "success_ci95": [
+        0.0,
+        0.375
+      ],
+      "valid_rmse": 58.71919996427442,
+      "valid_rmse_ci95": [
+        43.75539646730933,
+        71.01033765922897
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "prior_offset",
+      "dataset": "NIR",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 60,
+      "success_rate": 1.0,
+      "success_ci95": [
+        1.0,
+        1.0
+      ],
+      "valid_rmse": 0.7958224257542215,
+      "valid_rmse_ci95": [
+        0.7071067811865476,
+        0.9486832980505138
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 7,
+      "success_rate": 0.011666666666666667,
+      "success_ci95": [
+        0.0,
+        0.030000000000000006
+      ],
+      "valid_rmse": 48.35114614291303,
+      "valid_rmse_ci95": [
+        45.505622361956014,
+        51.06083626123949
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 28,
+      "success_rate": 0.04666666666666666,
+      "success_ci95": [
+        0.018333333333333333,
+        0.08166666666666667
+      ],
+      "valid_rmse": 47.28020564743652,
+      "valid_rmse_ci95": [
+        41.99842544511917,
+        52.56994411010214
+      ],
+      "rmse_bootstrap_defined": 10000,
+      "valid_grid_rmse": 88.8180552390893
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 0,
+      "success_rate": 0.0,
+      "success_ci95": [
+        0.0,
+        0.0
+      ],
+      "valid_rmse": 50.06043014863802,
+      "valid_rmse_ci95": [
+        47.062531091634945,
+        52.93588417442933
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "down_pc",
+      "measure": "MI",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 0,
+      "success_rate": 0.0,
+      "success_ci95": [
+        0.0,
+        0.0
+      ],
+      "valid_rmse": 52.95350161541098,
+      "valid_rmse_ci95": [
+        50.000016665688854,
+        55.805643382205886
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 0,
+      "success_rate": 0.0,
+      "success_ci95": [
+        0.0,
+        0.0
+      ],
+      "valid_rmse": 50.87939989163918,
+      "valid_rmse_ci95": [
+        48.11443823493881,
+        53.520854188693825
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "full_pc",
+      "measure": "MI",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 0,
+      "success_rate": 0.0,
+      "success_ci95": [
+        0.0,
+        0.0
+      ],
+      "valid_rmse": 53.15674933627902,
+      "valid_rmse_ci95": [
+        50.04607875666708,
+        56.057199953607594
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 5,
+      "success_rate": 0.008333333333333333,
+      "success_ci95": [
+        0.0,
+        0.021666666666666664
+      ],
+      "valid_rmse": 53.44517440018946,
+      "valid_rmse_ci95": [
+        50.666737938442246,
+        56.07822066839539
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "mfpc",
+      "measure": "MI",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 0,
+      "success_rate": 0.0,
+      "success_ci95": [
+        0.0,
+        0.0
+      ],
+      "valid_rmse": 53.994567627987664,
+      "valid_rmse_ci95": [
+        51.1979231336528,
+        56.669930292672205
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "raw",
+      "measure": "CCRE",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 3,
+      "success_rate": 0.005,
+      "success_ci95": [
+        0.0,
+        0.015
+      ],
+      "valid_rmse": 51.746175382018976,
+      "valid_rmse_ci95": [
+        48.5244800761157,
+        54.788006584418014
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "SAR",
+      "system": "raw",
+      "measure": "MI",
+      "n_pairs": 100,
+      "trials": 600,
+      "valid": 600,
+      "missing": 0,
+      "successes": 8,
+      "success_rate": 0.013333333333333332,
+      "success_ci95": [
+        0.0,
+        0.03333333333333333
+      ],
+      "valid_rmse": 52.26528484567935,
+      "valid_rmse_ci95": [
+        49.067625103771036,
+        55.39279134625712
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 11,
+      "success_rate": 0.1527777777777778,
+      "success_ci95": [
+        0.0,
+        0.375
+      ],
+      "valid_rmse": 59.56089321022645,
+      "valid_rmse_ci95": [
+        44.83605939500617,
+        70.80540625556335
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 13,
+      "success_rate": 0.18055555555555555,
+      "success_ci95": [
+        0.041666666666666664,
+        0.3611111111111111
+      ],
+      "valid_rmse": 82.41210442453712,
+      "valid_rmse_ci95": [
+        42.41368610323729,
+        111.57454568613221
+      ],
+      "rmse_bootstrap_defined": 10000,
+      "valid_grid_rmse": 126.35258128278849
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 4,
+      "success_rate": 0.05555555555555555,
+      "success_ci95": [
+        0.0,
+        0.16666666666666666
+      ],
+      "valid_rmse": 75.26730144403123,
+      "valid_rmse_ci95": [
+        60.33701639364698,
+        86.44295637761981
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "down_pc",
+      "measure": "MI",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 5,
+      "success_rate": 0.06944444444444443,
+      "success_ci95": [
+        0.0,
+        0.16666666666666666
+      ],
+      "valid_rmse": 76.19820645308305,
+      "valid_rmse_ci95": [
+        60.68664963106301,
+        89.13631882288755
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 16,
+      "success_rate": 0.22222222222222224,
+      "success_ci95": [
+        0.0,
+        0.4583333333333333
+      ],
+      "valid_rmse": 65.58031547482658,
+      "valid_rmse_ci95": [
+        47.166828614370175,
+        79.09982265730683
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "full_pc",
+      "measure": "MI",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 12,
+      "success_rate": 0.16666666666666666,
+      "success_ci95": [
+        0.0,
+        0.36111111111111116
+      ],
+      "valid_rmse": 62.57528798708534,
+      "valid_rmse_ci95": [
+        44.723331479714766,
+        76.40559706801461
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 5,
+      "success_rate": 0.06944444444444443,
+      "success_ci95": [
+        0.0,
+        0.16666666666666666
+      ],
+      "valid_rmse": 72.45036615197715,
+      "valid_rmse_ci95": [
+        55.708542037756025,
+        85.31226139384523
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "mfpc",
+      "measure": "MI",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 4,
+      "success_rate": 0.05555555555555555,
+      "success_ci95": [
+        0.0,
+        0.15277777777777776
+      ],
+      "valid_rmse": 78.48637532152387,
+      "valid_rmse_ci95": [
+        61.53793995383984,
+        92.18596843721222
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "raw",
+      "measure": "CCRE",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 17,
+      "success_rate": 0.23611111111111113,
+      "success_ci95": [
+        0.0,
+        0.48611111111111116
+      ],
+      "valid_rmse": 66.89544080129826,
+      "valid_rmse_ci95": [
+        47.53758746181298,
+        83.31242237442362
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "Label",
+      "system": "raw",
+      "measure": "MI",
+      "n_pairs": 12,
+      "trials": 72,
+      "valid": 72,
+      "missing": 0,
+      "successes": 8,
+      "success_rate": 0.1111111111111111,
+      "success_ci95": [
+        0.0,
+        0.2777777777777778
+      ],
+      "valid_rmse": 76.04676923519573,
+      "valid_rmse_ci95": [
+        57.43333090072312,
+        91.24022778722336
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 60,
+      "success_rate": 1.0,
+      "success_ci95": [
+        1.0,
+        1.0
+      ],
+      "valid_rmse": 0.7958224257542215,
+      "valid_rmse_ci95": [
+        0.7071067811865476,
+        0.9486832980505138
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 60,
+      "success_rate": 1.0,
+      "success_ci95": [
+        1.0,
+        1.0
+      ],
+      "valid_rmse": 0.05359160350089378,
+      "valid_rmse_ci95": [
+        0.027477359633221378,
+        0.08179909509851266
+      ],
+      "rmse_bootstrap_defined": 10000,
+      "valid_grid_rmse": 0.09143880675747278
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 47,
+      "success_rate": 0.7833333333333334,
+      "success_ci95": [
+        0.5,
+        1.0
+      ],
+      "valid_rmse": 42.13114445791063,
+      "valid_rmse_ci95": [
+        0.7958224257542215,
+        66.72439333125503
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "down_pc",
+      "measure": "MI",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 46,
+      "success_rate": 0.7666666666666666,
+      "success_ci95": [
+        0.5,
+        1.0
+      ],
+      "valid_rmse": 25.87985059204683,
+      "valid_rmse_ci95": [
+        0.7958224257542215,
+        39.62196360606072
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 52,
+      "success_rate": 0.8666666666666666,
+      "success_ci95": [
+        0.6333333333333333,
+        1.0
+      ],
+      "valid_rmse": 4.347413023856832,
+      "valid_rmse_ci95": [
+        0.7071067811865476,
+        7.359800721939872
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "full_pc",
+      "measure": "MI",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 57,
+      "success_rate": 0.95,
+      "success_ci95": [
+        0.85,
+        1.0
+      ],
+      "valid_rmse": 3.0495901363953815,
+      "valid_rmse_ci95": [
+        0.7071067811865476,
+        5.173651192984184
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 53,
+      "success_rate": 0.8833333333333334,
+      "success_ci95": [
+        0.75,
+        1.0
+      ],
+      "valid_rmse": 19.756011743264377,
+      "valid_rmse_ci95": [
+        0.8366600265340756,
+        30.510653876965666
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "mfpc",
+      "measure": "MI",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 55,
+      "success_rate": 0.9166666666666666,
+      "success_ci95": [
+        0.8,
+        1.0
+      ],
+      "valid_rmse": 15.47363348839998,
+      "valid_rmse_ci95": [
+        0.752772652709081,
+        26.757553450692512
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "raw",
+      "measure": "CCRE",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 48,
+      "success_rate": 0.8,
+      "success_ci95": [
+        0.5,
+        1.0
+      ],
+      "valid_rmse": 33.176799122278204,
+      "valid_rmse_ci95": [
+        0.7958224257542215,
+        51.731035172321846
+      ],
+      "rmse_bootstrap_defined": 10000
+    },
+    {
+      "arm": "image_translation",
+      "dataset": "NIR",
+      "system": "raw",
+      "measure": "MI",
+      "n_pairs": 10,
+      "trials": 60,
+      "valid": 60,
+      "missing": 0,
+      "successes": 49,
+      "success_rate": 0.8166666666666667,
+      "success_ci95": [
+        0.6,
+        1.0
+      ],
+      "valid_rmse": 29.039628096792146,
+      "valid_rmse_ci95": [
+        0.8366600265340756,
+        50.2457295034447
+      ],
+      "rmse_bootstrap_defined": 10000
+    }
+  ],
+  "paired_success_contrasts": [
+    {
+      "dataset": "SAR",
+      "first": "HOPC_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 100,
+      "delta_success_percentage_points": 1.1666666666666667,
+      "ci95": [
+        0.0,
+        3.0000000000000004
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "SAR",
+      "first": "HOPC_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 100,
+      "delta_success_percentage_points": 1.1666666666666667,
+      "ci95": [
+        0.0,
+        3.0000000000000004
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "SAR",
+      "first": "RIFT_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 100,
+      "delta_success_percentage_points": 4.666666666666666,
+      "ci95": [
+        1.8333333333333333,
+        8.166666666666666
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "SAR",
+      "first": "RIFT_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 100,
+      "delta_success_percentage_points": 4.666666666666666,
+      "ci95": [
+        1.8333333333333333,
+        8.166666666666666
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "Label",
+      "first": "HOPC_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 12,
+      "delta_success_percentage_points": -1.388888888888889,
+      "ci95": [
+        -22.222222222222225,
+        19.444444444444446
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "Label",
+      "first": "HOPC_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 12,
+      "delta_success_percentage_points": 9.722222222222223,
+      "ci95": [
+        -2.7777777777777777,
+        27.777777777777786
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "Label",
+      "first": "RIFT_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 12,
+      "delta_success_percentage_points": 1.388888888888888,
+      "ci95": [
+        -16.66666666666667,
+        16.666666666666664
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "Label",
+      "first": "RIFT_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 12,
+      "delta_success_percentage_points": 12.5,
+      "ci95": [
+        -2.777777777777779,
+        31.944444444444446
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "NIR",
+      "first": "HOPC_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 10,
+      "delta_success_percentage_points": 5.0,
+      "ci95": [
+        0.0,
+        15.0
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "NIR",
+      "first": "HOPC_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 10,
+      "delta_success_percentage_points": 8.333333333333334,
+      "ci95": [
+        0.0,
+        20.0
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "NIR",
+      "first": "RIFT_Py",
+      "second": "full_pc / MI",
+      "n_pairs": 10,
+      "delta_success_percentage_points": 5.0,
+      "ci95": [
+        0.0,
+        15.0
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    },
+    {
+      "dataset": "NIR",
+      "first": "RIFT_Py",
+      "second": "mfpc / MI",
+      "n_pairs": 10,
+      "delta_success_percentage_points": 8.333333333333334,
+      "ci95": [
+        0.0,
+        20.0
+      ],
+      "inference": "descriptive unadjusted paired bootstrap; no p value"
+    }
+  ],
+  "prior_only": {
+    "rmse": 23.717082451262844,
+    "success_rate": 0.16666666666666666
+  },
+  "timing_summaries": [
+    {
+      "dataset": "SAR",
+      "system": "raw",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.06213375000515953,
+      "pair_median_min_s": 0.0493022000300698,
+      "pair_median_max_s": 0.07071309996536002
+    },
+    {
+      "dataset": "SAR",
+      "system": "full_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.19258510001236573,
+      "pair_median_min_s": 0.18321125002694316,
+      "pair_median_max_s": 0.20215760002611205
+    },
+    {
+      "dataset": "SAR",
+      "system": "down_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.0560212999698706,
+      "pair_median_min_s": 0.05217974999686703,
+      "pair_median_max_s": 0.05958230001851916
+    },
+    {
+      "dataset": "SAR",
+      "system": "mfpc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.06646895001176745,
+      "pair_median_min_s": 0.06000400002812967,
+      "pair_median_max_s": 0.07435310000437312
+    },
+    {
+      "dataset": "SAR",
+      "system": "HOPC_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.653285100008361,
+      "pair_median_min_s": 0.6287774500087835,
+      "pair_median_max_s": 0.6830725999898277
+    },
+    {
+      "dataset": "SAR",
+      "system": "RIFT_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.9735843999951612,
+      "pair_median_min_s": 0.9615104999975301,
+      "pair_median_max_s": 1.005530499998713
+    },
+    {
+      "dataset": "Label",
+      "system": "raw",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.07088394998572767,
+      "pair_median_min_s": 0.06404585001291707,
+      "pair_median_max_s": 0.07360755000263453
+    },
+    {
+      "dataset": "Label",
+      "system": "full_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 1.0757463500194717,
+      "pair_median_min_s": 1.04080185003113,
+      "pair_median_max_s": 1.1046776000002865
+    },
+    {
+      "dataset": "Label",
+      "system": "down_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.18439435001346283,
+      "pair_median_min_s": 0.18155969999497756,
+      "pair_median_max_s": 0.2013862500025425
+    },
+    {
+      "dataset": "Label",
+      "system": "mfpc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.23374384999624453,
+      "pair_median_min_s": 0.22373709999374114,
+      "pair_median_max_s": 0.24208865000400692
+    },
+    {
+      "dataset": "Label",
+      "system": "HOPC_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 2.2594868500018492,
+      "pair_median_min_s": 2.2332448000379372,
+      "pair_median_max_s": 2.2723776499624364
+    },
+    {
+      "dataset": "Label",
+      "system": "RIFT_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 1.6411657500138972,
+      "pair_median_min_s": 0.9586391000193544,
+      "pair_median_max_s": 1.7308507999987341
+    },
+    {
+      "dataset": "NIR",
+      "system": "raw",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.07491914997808635,
+      "pair_median_min_s": 0.06940554999164306,
+      "pair_median_max_s": 0.13138279999839142
+    },
+    {
+      "dataset": "NIR",
+      "system": "full_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 1.0954248999769334,
+      "pair_median_min_s": 1.0823172999953385,
+      "pair_median_max_s": 1.1131037999584805
+    },
+    {
+      "dataset": "NIR",
+      "system": "down_pc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.17478944998583756,
+      "pair_median_min_s": 0.16946139998617582,
+      "pair_median_max_s": 0.1948091000376735
+    },
+    {
+      "dataset": "NIR",
+      "system": "mfpc",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 0.22924770001554862,
+      "pair_median_min_s": 0.21327520001796074,
+      "pair_median_max_s": 0.23406049999175593
+    },
+    {
+      "dataset": "NIR",
+      "system": "HOPC_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 2.2493157999997493,
+      "pair_median_min_s": 2.2082050000026356,
+      "pair_median_max_s": 2.260696649987949
+    },
+    {
+      "dataset": "NIR",
+      "system": "RIFT_Py",
+      "pairs": 5,
+      "repeats_per_pair": 10,
+      "median_pair_median_s": 1.1939298500074074,
+      "pair_median_min_s": 1.1157403500110377,
+      "pair_median_max_s": 1.2841616499936208
+    }
+  ]
+}

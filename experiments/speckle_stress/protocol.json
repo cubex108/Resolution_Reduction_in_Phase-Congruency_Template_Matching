@@ -1,0 +1,276 @@
+{
+  "name": "normalized-image multiplicative stress test",
+  "interpretation": "exploratory extra perturbation of observed normalized imagery; not physically calibrated speckle",
+  "frozen_utc": "2026-10-15T15:51:54.734090+00:00",
+  "original_run_signature": "905016101120d4790bb0baf296308a22b387e46063acb6d0c2fd83cfa63567e7",
+  "frozen_primary_files": {
+    "results/protocol.json": "c69228818b6345402aefcc7fc7db7058ce49487acd347f3a48503038d0bc4a53",
+    "results/main_rows.jsonl": "9862e159942e67bc5db955edad7e6eae4355ae2eaa74f93e6a9277f746297d63",
+    "results/main_rows.signature.json": "f0b3b11990ca0ab12b8d58d45d2ed1b482145ebabadb5e137656e1d75038ab2b",
+    "results/controls_rows.jsonl": "07d7c24de5c111c934c39c88c7c460e2151425562f5ec2118bccb0d64c4df3a7",
+    "results/controls_rows.signature.json": "0adc31e54519d6191d7ba94d94b7040ae90decf463266c635710fac8d8fcfd24",
+    "results/timing_rows.json": "60ce2c6dafea96754cba1732f6bc302d57471189ef42bc775c66468ac876d81a",
+    "results/timing_rows.signature.json": "7fdbb486ce38bed17cccdbff5da69ff38d53049b7809d4241ea509161b2335ee",
+    "code/imaging_core.py": "54d23b5a5c5898efcee8be15f8f43c27d316d62da71a7fc2d95e2dbbd12ae6ed",
+    "code/matching_metrics.py": "f24073b43c17cfc86996c7650a776d0865e2a310e09debb9b782e472e8d1b798",
+    "code/run_benchmark.py": "b48e9a63deee31fb6e09ad67d96d5ff08a91669ca01aecbc62783b986c1cf10b"
+  },
+  "crop_signatures": {
+    "SAR_00001": {
+      ".npz": "88e48baa2fde88e8cc07ff44c430d370c59e1ca4353002629a3c8513bffa0919",
+      ".json": "c364669e28f9f51d2d60dbae70b4801615a2828606618c6c60bcc85def815f4a"
+    },
+    "SAR_00005": {
+      ".npz": "f768f9c7037aa1777cf514d4c8cba874693c6f6a8e77cd70a020c53fb95d13f9",
+      ".json": "a14b583f1a06b9ebc1550c73e547a6e5411e74865344d4380c621d2e3f8b7c1a"
+    },
+    "SAR_00010": {
+      ".npz": "0419f16e67a3848541ab88c9f28b8dcf71bbadf44890a0c39c2e469296c2761d",
+      ".json": "9810ec08315046677549847fd64c67583e46e21c277f9887a16ba710d8c56b6c"
+    },
+    "SAR_00015": {
+      ".npz": "7c54a7aaf3d24cd8577bc297bbbd66818ef6c3d1c9e9b4add14d069989c6a78c",
+      ".json": "069f3e1f2ac468953ebb6573a14693c2a1982f69667bf49ed3382a8e43e77022"
+    },
+    "SAR_00020": {
+      ".npz": "c7705bf70f2435aa7b9586a92fd90368ddb6a29e625de4aad53fd47ef84252a4",
+      ".json": "875d078caf36c25985dfcb512fc34ea0af6faa48be42d5f8710bf0043a9029d5"
+    },
+    "SAR_00025": {
+      ".npz": "b658543de1b391325d2d41436c0ed8441c73a10d7a5929c46ea3afae93ca387d",
+      ".json": "72f10f0c6b79b832e1404c835b428e661e71c768e56229d489ccd92653a7ff97"
+    },
+    "SAR_00030": {
+      ".npz": "0b9839350edb16b1c51fbc4ae13bb04c52c286c441ae542a087ae81b3c5bb2c3",
+      ".json": "a208735d92e07720d223603fd1ce100aeea3033b507aa2c906d61b9169a66668"
+    },
+    "SAR_00035": {
+      ".npz": "d25343022858799e2cdae4ac7f2175e3f48cba8334bb8384dbc242c28009353d",
+      ".json": "6ef587ee6fc52fed24f3ab2556d8cbbce70cc92536e8e54fa0d2a783134e72b8"
+    },
+    "SAR_00040": {
+      ".npz": "8910eea84facb7e8193e00860898b29947012a30a6c16cb3b433c036ac31c48b",
+      ".json": "e3d641a5b4bfd9225b31443a3580a49b78a061bd57180f5a55514915557cc795"
+    },
+    "SAR_00041": {
+      ".npz": "782f08c43266161cccc778a3e25367feeb0608f059cc369c92bbab41656d8deb",
+      ".json": "84800b1a2623eb491eafb35cbd39620766c43c8253527e1fa7190045e9a056df"
+    }
+  },
+  "supplemental_sources": {
+    "stress_model.py": "2f8b3cf50d49cd6244a3098428b69d7317807555abb8dbf817f6f38ac799b797",
+    "run_stress.py": "0bbe28c542e9ab837882ec26442f85e0d69f27a670c8fa594bb168924fd1f854"
+  },
+  "pairs": [
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00001",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\1.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\1.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00005",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\5.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\5.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00010",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\10.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\10.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00015",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\15.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\15.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00020",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\20.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\20.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00025",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\25.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\25.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00030",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\30.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\30.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00035",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\35.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\35.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00040",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\40.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\40.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    },
+    {
+      "dataset": "SAR",
+      "pair_id": "SAR_00041",
+      "a": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\41.png",
+      "b": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\41.png",
+      "a_mode": "gray",
+      "b_mode": "gray",
+      "geometry": [
+        240,
+        48,
+        160
+      ],
+      "historical": true
+    }
+  ],
+  "offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      -20,
+      15
+    ],
+    [
+      40,
+      -30
+    ]
+  ],
+  "strategies": [
+    "raw",
+    "full_pc",
+    "down_pc",
+    "mfpc",
+    "mfpc_scale_matched"
+  ],
+  "gamma_shape_k": [
+    1,
+    4,
+    16
+  ],
+  "realizations": 30,
+  "master_seed": 2026101506,
+  "perturbation": "target_only: float32(clip(b*Gamma(k,scale=1/k),0,1)); no realization min-max or empirical mean correction",
+  "sharing": "same pair/k/seed image used across all strategies and offsets; independent between pair/k/seed",
+  "grid_step": 2,
+  "histogram_bins": 32,
+  "PC_parameters": {
+    "nscale": 5,
+    "norient": 6,
+    "minWaveLength": 3,
+    "mult": 2.1,
+    "sigmaOnf": 0.55,
+    "k": 2.0,
+    "cutOff": 0.5,
+    "g": 10.0,
+    "noiseMethod": -1
+  },
+  "expected_metric_rows": 54600,
+  "expected_perturbation_rows": 910,
+  "max_workers": 2,
+  "inferential_n": 10,
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 2026101507,
+  "python": "3.10.21 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:35:39) [MSC v.1942 64 bit (AMD64)]",
+  "libraries": {
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "numba": "0.61.2",
+    "phasepack": "1.5",
+    "PyWavelets": "1.8.0"
+  },
+  "run_signature": "78f15f3e71b927646ad48ef9791181a9471891694279964d146377a408da0942"
+}

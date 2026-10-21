@@ -1,0 +1,1639 @@
+{
+  "signature": "eb5e62670266a9f0e0f6a44d1f4da54c1877a6a8220615f9ba54dd97d374576e",
+  "rows_hash": "93fdab4ff3bd3ec929e47708fd24915c93ec7d8362d1013d6fb9448279d39010",
+  "rows": [
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        84,
+        88
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3590596044202678
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 11.180339887498949,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        72,
+        86
+      ],
+      "true_top_left": [
+        83,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3605581774239816
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 16.278820596099706,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        72,
+        80
+      ],
+      "true_top_left": [
+        88,
+        83
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3605657480126016
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        74,
+        78
+      ],
+      "true_top_left": [
+        78,
+        78
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3590596044202678
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 16.278820596099706,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        92,
+        70
+      ],
+      "true_top_left": [
+        108,
+        73
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3605657480126016
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        44,
+        118
+      ],
+      "true_top_left": [
+        48,
+        118
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3590596044202678
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        84,
+        88
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3590596044202678
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 8.36318611845546,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          1.0302557204650997,
+          -0.07856706535015667,
+          5.9296415760466985
+        ],
+        [
+          0.09558505998358022,
+          0.988802422672545,
+          -24.33130969295395
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 19.882443356001925,
+      "status": "ok",
+      "matches": 407,
+      "inliers": 22,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 680
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        92.0,
+        90.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        92.0,
+        90.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        86.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 14.142135623730951,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        74.0,
+        86.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        86.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 12.165525060596439,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        76.0,
+        86.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        86.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 11.180339887498949,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        82,
+        86
+      ],
+      "true_top_left": [
+        93,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3605716056373757
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.5924768443433739,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          0.9970725513681341,
+          0.007385469359190936,
+          0.6912106848101037
+        ],
+        [
+          0.02544845626146882,
+          1.037245780085891,
+          -7.701744753963805
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 6.599880228125143,
+      "status": "ok",
+      "matches": 404,
+      "inliers": 20,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 694
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 3.605551275463989,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        90.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        92.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 3.605551275463989,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        90.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 3.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        90.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 13.152946437965905,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        80.0,
+        86.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 3.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        90.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 13.152946437965905,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        80.0,
+        86.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 3.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        90.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 16.278820596099706,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        72,
+        90
+      ],
+      "true_top_left": [
+        88,
+        93
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.36053692521158637
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 3.347174184742398,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.9600064235700361,
+          0.003943882763208825,
+          15.340391899304072
+        ],
+        [
+          0.02947894514423542,
+          1.0288122319099415,
+          -10.493017101921826
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 8.741313375045694,
+      "status": "ok",
+      "matches": 396,
+      "inliers": 22,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 683
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 2.23606797749979,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        90.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 2.23606797749979,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        90.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 18.24828759089466,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        90.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 18.24828759089466,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        90.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 6.082762530298219,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        82.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        94,
+        98
+      ],
+      "true_top_left": [
+        98,
+        98
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3590646504342106
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 1.664583859788475,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.0292321191645217,
+          -0.01836041107226653,
+          6.636364783000103
+        ],
+        [
+          -0.010543967379301664,
+          1.052481794978615,
+          2.792481027821078
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 8.899594663307477,
+      "status": "ok",
+      "matches": 390,
+      "inliers": 19,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 697
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        102.0,
+        100.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        102.0,
+        100.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 12.165525060596439,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        86.0,
+        96.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 12.165525060596439,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        86.0,
+        96.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        96.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 16.278820596099706,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        52,
+        100
+      ],
+      "true_top_left": [
+        68,
+        103
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.3600268048781085
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 7.266135799483469,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.9775985056419335,
+          0.012537522571949997,
+          20.28265602443943
+        ],
+        [
+          -0.082172869116225,
+          1.0231715386687437,
+          -1.763256498603935
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 14.583750862301875,
+      "status": "ok",
+      "matches": 360,
+      "inliers": 20,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 614
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 2.23606797749979,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 2.23606797749979,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 18.24828759089466,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        50.0,
+        100.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 18.24828759089466,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        50.0,
+        100.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 6.082762530298219,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        62.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 10.198039027185569,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        118,
+        56
+      ],
+      "true_top_left": [
+        128,
+        58
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.35887757575962737
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 4.983701336887386,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          1.049517710007725,
+          -0.055181867480975366,
+          -33.77901664221714
+        ],
+        [
+          0.014171008574099702,
+          1.0499508385183471,
+          28.067249738284502
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 11.99117977367705,
+      "status": "ok",
+      "matches": 398,
+      "inliers": 20,
+      "trials": 10000,
+      "keypoints_a": 1896,
+      "keypoints_b": 751
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        132.0,
+        60.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 4.47213595499958,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        132.0,
+        60.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        126.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 14.142135623730951,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        114.0,
+        56.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 4.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        124.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        126.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_5_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 2.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        126.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    }
+  ],
+  "diagnostic_parallel_wall_seconds": 34.824023099965416
+}

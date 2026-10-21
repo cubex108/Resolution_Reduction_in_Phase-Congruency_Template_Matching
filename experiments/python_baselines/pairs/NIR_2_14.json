@@ -1,0 +1,1639 @@
+{
+  "signature": "eb5e62670266a9f0e0f6a44d1f4da54c1877a6a8220615f9ba54dd97d374576e",
+  "rows_hash": "63b71c6a9e4915e74d206fa6ad33cd452672f39bef93900ddc4627ef15a6d8b0",
+  "rows": [
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88,
+        88
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.787655480535017
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        84,
+        88
+      ],
+      "true_top_left": [
+        83,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7060178080668982
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88,
+        82
+      ],
+      "true_top_left": [
+        88,
+        83
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7111261126992638
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        78,
+        78
+      ],
+      "true_top_left": [
+        78,
+        78
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.787655480535017
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        108,
+        72
+      ],
+      "true_top_left": [
+        108,
+        73
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7111261126992638
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        48,
+        118
+      ],
+      "true_top_left": [
+        48,
+        118
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.787655480535017
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88,
+        88
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.787655480535017
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.02426313482139006,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.0002176551798387,
+          -0.00025973069778691127,
+          -0.01501615376837459
+        ],
+        [
+          -6.219427587844899e-05,
+          0.9999839163385775,
+          0.009239824801392923
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.05436939410150424,
+      "status": "ok",
+      "matches": 1820,
+      "inliers": 1649,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2372
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94,
+        88
+      ],
+      "true_top_left": [
+        93,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7056986903739936
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 0.024636630870452456,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.0001498501645536,
+          -0.00031989675131671464,
+          0.01399394460487967
+        ],
+        [
+          -2.0379172213166036e-05,
+          0.9999950940452316,
+          4.990561815682134
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.05492448518545101,
+      "status": "ok",
+      "matches": 1797,
+      "inliers": 1625,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2354
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        92.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        94.0,
+        88.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88,
+        92
+      ],
+      "true_top_left": [
+        88,
+        93
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7111333343618003
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 0.003075504578423821,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.0001175592387013,
+          -0.0001628328339811809,
+          5.0113035151790175
+        ],
+        [
+          -1.699571622706223e-05,
+          0.9999916912302669,
+          0.007121725332066401
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.028481273498591593,
+      "status": "ok",
+      "matches": 1801,
+      "inliers": 1598,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2401
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        94.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        88.0,
+        92.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98,
+        98
+      ],
+      "true_top_left": [
+        98,
+        98
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7875946460716439
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0030524302382783602,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.0001726270274856,
+          -0.00010500285925624242,
+          9.985908693026738
+        ],
+        [
+          2.848289355523402e-05,
+          1.0000579441435717,
+          9.979764983381394
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.029388558094596735,
+      "status": "ok",
+      "matches": 1611,
+      "inliers": 1369,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2082
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        98.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68,
+        102
+      ],
+      "true_top_left": [
+        68,
+        103
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.711398684051885
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 0.013193366446602812,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          1.000319935652225,
+          -0.00018779602860100053,
+          14.961683544405446
+        ],
+        [
+          -0.00018718832362276826,
+          1.000236731145018,
+          -20.015465230025423
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.06662392012386657,
+      "status": "ok",
+      "matches": 1642,
+      "inliers": 1415,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2270
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        104.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 1.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        102.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128,
+        58
+      ],
+      "true_top_left": [
+        128,
+        58
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.7899473358660444
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.036690545362228995,
+      "valid": true,
+      "success3": true,
+      "affine": [
+        [
+          0.9999902800274701,
+          -0.0002875116799491706,
+          -29.95193521296636
+        ],
+        [
+          0.00016866649385652866,
+          0.9998900306631888,
+          39.95336116889955
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 0.05436928558188859,
+      "status": "ok",
+      "matches": 1510,
+      "inliers": 1201,
+      "trials": 50,
+      "keypoints_a": 2165,
+      "keypoints_b": 2328
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "NIR",
+      "pair_id": "NIR_2_14",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 0.0,
+      "valid": true,
+      "success3": true,
+      "status": "ok",
+      "estimated_top_left": [
+        128.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    }
+  ],
+  "diagnostic_parallel_wall_seconds": 34.53516520000994
+}

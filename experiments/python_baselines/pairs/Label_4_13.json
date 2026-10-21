@@ -1,0 +1,1639 @@
+{
+  "signature": "eb5e62670266a9f0e0f6a44d1f4da54c1877a6a8220615f9ba54dd97d374576e",
+  "rows_hash": "5c8110615adb7604799ab5ff7e3ed5d46dd86d0672972333e86ef49bd8ad8078",
+  "rows": [
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 66.57326790837296,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        32,
+        52
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2852778893469587
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 63.50590523722971,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        20,
+        80
+      ],
+      "true_top_left": [
+        83,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2827849539058233
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 67.11929677819934,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        32,
+        46
+      ],
+      "true_top_left": [
+        88,
+        83
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.28417725705338526
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 66.57326790837296,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        22,
+        42
+      ],
+      "true_top_left": [
+        78,
+        78
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2852778893469587
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 67.11929677819934,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        52,
+        36
+      ],
+      "true_top_left": [
+        108,
+        73
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.28417725705338526
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "prior_offset",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 55.569775957799216,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0,
+        90
+      ],
+      "true_top_left": [
+        48,
+        118
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2806398255757919
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 66.57326790837296,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        32,
+        52
+      ],
+      "true_top_left": [
+        88,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2852778893469587
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 92.47782055290816,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.27740920942313957,
+          -0.030685687240654236,
+          80.44526677004869
+        ],
+        [
+          0.1471975124681278,
+          1.0284627246862885,
+          -95.6696645920763
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 139.31541833960344,
+      "status": "ok",
+      "matches": 222,
+      "inliers": 12,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 331
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 77.89736837660179,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        36.0,
+        30.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 60.8276253029822,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        60.0,
+        34.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 61.18823416311342,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        28.0,
+        76.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 72.27724399837061,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        18.0,
+        70.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 74.67261881037788,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        14.0,
+        98.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 86.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        2.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 98.40731680114035,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        166.0,
+        28.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        0
+      ],
+      "err": 86.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        2.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 63.50590523722971,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        30,
+        80
+      ],
+      "true_top_left": [
+        93,
+        88
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2828004465926315
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 93.94594217797186,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.25960698366348156,
+          0.028618863765727864,
+          69.75620348681772
+        ],
+        [
+          0.15141385064915222,
+          1.013339835109741,
+          -87.92522149953311
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 142.21341604247328,
+      "status": "ok",
+      "matches": 223,
+      "inliers": 9,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 336
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 78.56844150166147,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        40.0,
+        30.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 59.53990258641679,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        64.0,
+        36.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 118.84864324004712,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        14.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 66.06814663663572,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        42.0,
+        46.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 99.02019995940222,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        122.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 89.08984229416954,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        4.0,
+        92.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 99.20181449953424,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        172.0,
+        28.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        5,
+        0
+      ],
+      "err": 83.09632964216891,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        10.0,
+        84.0
+      ],
+      "true_top_left": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 67.11929677819934,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        32,
+        56
+      ],
+      "true_top_left": [
+        88,
+        93
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2841663162765864
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 106.0418497401624,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.5142258532638572,
+          -0.4683222023530271,
+          131.46502581687176
+        ],
+        [
+          -0.3417118709822427,
+          0.24045813032734964,
+          304.34395003551623
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 184.19127865278244,
+      "status": "ok",
+      "matches": 218,
+      "inliers": 8,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 335
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 79.98124780221924,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        34.0,
+        34.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 59.16924876994806,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        58.0,
+        42.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 64.38167441127949,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        24.0,
+        86.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 65.94694837519019,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        50.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 70.178344238091,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        18.0,
+        98.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 82.15229759416349,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        6.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 99.02019995940222,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        166.0,
+        32.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        0,
+        5
+      ],
+      "err": 82.15229759416349,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        6.0,
+        88.0
+      ],
+      "true_top_left": [
+        88.0,
+        93.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 66.57326790837296,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        42,
+        62
+      ],
+      "true_top_left": [
+        98,
+        98
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.285301558303714
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 82.80465050656701,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.19611251055684942,
+          -0.06034956271595476,
+          127.06247907750466
+        ],
+        [
+          0.12818180468994528,
+          1.0729731844032884,
+          -91.71512830844382
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 138.65718310037133,
+      "status": "ok",
+      "matches": 231,
+      "inliers": 10,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 355
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 77.89736837660179,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        46.0,
+        40.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 60.8276253029822,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        70.0,
+        44.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 61.18823416311342,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        86.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 130.38404810405297,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        0.0,
+        12.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 74.67261881037788,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        24.0,
+        108.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 86.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        12.0,
+        98.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 98.40731680114035,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        176.0,
+        38.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        10,
+        10
+      ],
+      "err": 133.05637902783917,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        8.0,
+        0.0
+      ],
+      "true_top_left": [
+        98.0,
+        98.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 67.11929677819934,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        12,
+        66
+      ],
+      "true_top_left": [
+        68,
+        103
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.284126974848058
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 111.19563832544745,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.4681288791643403,
+          -0.20837592761462043,
+          81.52688678133936
+        ],
+        [
+          0.3794362862308148,
+          0.8459288460635564,
+          -140.97848683731428
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 147.7115780274495,
+      "status": "ok",
+      "matches": 212,
+      "inliers": 9,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 316
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 79.98124780221924,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        14.0,
+        44.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 59.16924876994806,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        38.0,
+        52.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 64.38167441127949,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        4.0,
+        96.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 69.8927750200262,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        2.0,
+        80.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 64.07027391856539,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        4.0,
+        100.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 67.11929677819934,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        12.0,
+        66.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 99.02019995940222,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        146.0,
+        42.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        -20,
+        15
+      ],
+      "err": 99.02019995940222,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        146.0,
+        42.0
+      ],
+      "true_top_left": [
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "HOPC_Py",
+      "measure": "NCC",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 66.57326790837296,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        72,
+        22
+      ],
+      "true_top_left": [
+        128,
+        58
+      ],
+      "valid_candidates": 7921,
+      "peak": 0.2854585740037606
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "RIFT_Py",
+      "measure": "affine",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 139.17233171750095,
+      "valid": true,
+      "success3": false,
+      "affine": [
+        [
+          0.14217761549342336,
+          0.21035815746959757,
+          23.646349885963886
+        ],
+        [
+          0.7755034097084492,
+          0.7147871524836593,
+          -174.71142789534588
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "grid_rmse": 208.01579636578654,
+      "status": "ok",
+      "matches": 217,
+      "inliers": 8,
+      "trials": 10000,
+      "keypoints_a": 1710,
+      "keypoints_b": 352
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 77.89736837660179,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        76.0,
+        0.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "raw",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 60.8276253029822,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        100.0,
+        4.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 61.18823416311342,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        68.0,
+        46.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "full_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 68.0294054067798,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        66.0,
+        30.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 74.67261881037788,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        54.0,
+        68.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "down_pc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 86.0,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        42.0,
+        58.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "MI",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 135.08515832614626,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        6.0,
+        0.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    },
+    {
+      "dataset": "Label",
+      "pair_id": "Label_4_13",
+      "arm": "image_translation",
+      "system": "mfpc",
+      "measure": "CCRE",
+      "offset": [
+        40,
+        -30
+      ],
+      "err": 136.0588108135596,
+      "valid": true,
+      "success3": false,
+      "status": "ok",
+      "estimated_top_left": [
+        4.0,
+        2.0
+      ],
+      "true_top_left": [
+        128.0,
+        58.0
+      ]
+    }
+  ],
+  "diagnostic_parallel_wall_seconds": 34.795676000008825
+}

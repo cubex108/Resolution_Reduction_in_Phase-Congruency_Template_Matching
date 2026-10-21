@@ -1,0 +1,72 @@
+Source-data and reproduction index — experimental revision 2026-10-18; delivery update 2026-10-21
+
+Delivery objects: Source_Code/ and Source_Code.zip, prepared for GitHub release.
+archive_manifest.json lists each public member, byte count and SHA-256.
+No separate submission manifest is included in this package.
+No public repository, accession or DOI is asserted in this package.
+
+Data units and legacy names
+selected_pair_count = 122 (SAR 100, Label 12, NIR 10).
+resampling_unit = image pair; six shifts are repeated observations within a pair.
+independence_not_verified = true.
+The frozen statistical_summary.json field n_independent_pairs=122 and the
+analysis_contract.independent_unit label refer to the selected pair identifiers
+used as analysis/resampling units. They do not certify independent parent scenes
+or spatial independence. SAR parent-scene grouping is unavailable; Potsdam tiles
+may be spatially dependent. The frozen files are retained unchanged for provenance.
+Pair-bootstrap intervals are conditional on the stated exchangeability assumption.
+
+Primary numerical reconstruction
+results/main_rows.jsonl: 10,248 saved observations, with frozen sidecar signatures.
+results/statistics/pair_metrics.csv: 1,708 pair/strategy/measure summaries.
+configuration_summaries.csv: all 42 configurations; pooled RMSE is sqrt(mean
+within-pair MSE), not mean within-pair RMSE. All six offsets have equal weight.
+contrasts.csv: 42 exploratory comparisons in two separate 21-test Holm families.
+n_nonzero is the number of nonzero paired differences entering a signed-rank test;
+zeros are excluded from that test, not from the reported mean and bootstrap.
+CI fields are unadjusted 95% pair-bootstrap intervals, not multiplicity-adjusted.
+shape_error_correlations.csv records the available-pair count of each correlation.
+run code/summarize_results.py with --input results/main_rows.jsonl and --out-dir
+pointing to a NEW output directory. The publication defaults are 10,000 bootstrap
+draws, 2,000 correlation-bootstrap draws and seed 12345.
+
+Additional descriptor comparison
+experiments/python_baselines/ contains implementation, protocol, notices, 19
+validation checks, 122 pair checkpoints, 8,052 observations and 900 timing rows.
+Run summarize_python.py within an extracted COPY of the package to rebuild its
+summary from saved pair records without original images. This updates derived
+files in that copy and verifies frozen source and protocol signatures.
+The HOPC descriptor/common-search and simplified RIFT implementations do not
+certify original-author software equivalence or complete rotation invariance.
+The actual-translation arm uses the same image pairs as the primary experiment.
+
+What the 2026-10-18 reproduction audit established
+A fresh extraction of the source archive reproduced numerical agreement
+(tolerance 1e-12) for 1,708 pair metrics, all 42 configuration summaries, all 42
+corrected contrasts, and the complete Python comparison summary. No image
+matching or primary shape correlations were rerun in that audit. The detailed
+audit record is retained by the authors and is not part of this public package.
+
+Raw images, cache and environment
+Source_Code.zip excludes all raw images and NPZ pixel caches. Obtain images
+lawfully from QXS-SAROPT and the ISPRS Potsdam providers cited in the manuscript.
+code/README.md gives the exact required folder layout and selected-band rules.
+In a separate study directory with empty results, run code/run_benchmark.py
+prepare, then freeze in the intended execution environment, then main, controls
+and timing. prepare builds central crops; freeze verifies input SHA-256 values.
+Keep the archived results untouched. A changed machine/runtime requires a newly
+frozen experiment; the original signature must not be edited to accept new runs.
+results/crops/*.json and results/protocol.json preserve selected IDs, source
+relative paths, crop coordinates and hashes for comparison. Dependency versions
+are in code/requirements.txt; that file is not a complete OS/environment lock.
+
+Figures
+Figure source tables are not distributed in this package. All reported figure
+values are derived from results/main_rows.jsonl, results/controls_rows.jsonl,
+results/timing_rows.json, experiments/python_baselines/ and
+experiments/speckle_stress/. Map panels additionally require the provider images.
+The submit folder separately contains figures/data/JOI_figures_Origin2026.opju,
+with the editable OriginPro2026 graph project, selected illustrative crops and
+matrices, together with the clean and marked manuscript, responses,
+supplementary information and figure exports. Internal review correspondence is
+not included in this public code/numerical package.

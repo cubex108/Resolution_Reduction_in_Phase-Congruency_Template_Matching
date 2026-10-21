@@ -1,0 +1,66 @@
+[
+  {
+    "decoder": "tifffile",
+    "source_shape": [
+      6000,
+      6000,
+      3
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YXS",
+    "photometric": "RGB",
+    "modality": "rgb",
+    "selected_channels_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "channel_semantics": "RGB luminance encoding",
+    "rgb_weights": [
+      0.299,
+      0.587,
+      0.114
+    ],
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 13.495000000000001,
+    "selected_max": 253.0,
+    "constant": false,
+    "normalized_sha256": "bb21b6724fe93664561a599e304369af86e316a3a93df803430e011c6185d05c",
+    "source_relative_path": "RGB_IR\\top_potsdam_2_10_RGB.tif",
+    "source_sha256": "435f0ad43e66491c071de4f5a6c256334e573b3a2e4aec36716a12fe354c99bc",
+    "crop_top_left": [
+      2800,
+      2800
+    ],
+    "crop_sha256": "d23a4727726658a1b65002ec71499e4069d8f9e25c24b84e15627dbb9f4dcc07"
+  },
+  {
+    "decoder": "tifffile",
+    "source_shape": [
+      6000,
+      6000,
+      4
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YXS",
+    "photometric": "MINISBLACK",
+    "modality": "nir",
+    "selected_channels_zero_based": [
+      3
+    ],
+    "channel_semantics": "NIR (manifest assertion: source bands are R,G,B,NIR)",
+    "rgb_weights": null,
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 11.0,
+    "selected_max": 251.0,
+    "constant": false,
+    "normalized_sha256": "0a505a1f5e1abbf87e289b377ab182116e7b1652a9295edb017b79510b66600b",
+    "source_relative_path": "IR_RGB\\top_potsdam_2_10_RGBIR.tif",
+    "source_sha256": "84247a77c24ab096c173df99a407b78747f002e8f7dfb153e1cb9e902f8e3dde",
+    "crop_top_left": [
+      2800,
+      2800
+    ],
+    "crop_sha256": "f5f49705e3675de36e822b49044486cf1ae80cfb77cfd0e8d560808aa316ec4c"
+  }
+]

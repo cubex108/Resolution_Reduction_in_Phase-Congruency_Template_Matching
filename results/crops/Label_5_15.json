@@ -1,0 +1,72 @@
+[
+  {
+    "decoder": "tifffile",
+    "source_shape": [
+      6000,
+      6000,
+      3
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YXS",
+    "photometric": "RGB",
+    "modality": "rgb",
+    "selected_channels_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "channel_semantics": "RGB luminance encoding",
+    "rgb_weights": [
+      0.299,
+      0.587,
+      0.114
+    ],
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 5.896999999999999,
+    "selected_max": 251.587,
+    "constant": false,
+    "normalized_sha256": "098514d2d9005c07f805a913af9f7464efdea3e6c79768c83a5db1b35cd94160",
+    "source_relative_path": "RGB_Lable\\top_potsdam_5_15_RGB.tif",
+    "source_sha256": "303baf249635ee04b54ee6c543c35d3c058c10359d8ae8365e8ac2189c0f2289",
+    "crop_top_left": [
+      2800,
+      2800
+    ],
+    "crop_sha256": "21988375d0f4c4f47fdc411fead0154df53c71a0afa1e0298d9def7e2ed251e7"
+  },
+  {
+    "decoder": "tifffile",
+    "source_shape": [
+      6000,
+      6000,
+      3
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YXS",
+    "photometric": "RGB",
+    "modality": "label",
+    "selected_channels_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "channel_semantics": "RGB label-color luminance encoding",
+    "rgb_weights": [
+      0.299,
+      0.587,
+      0.114
+    ],
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 29.07,
+    "selected_max": 255.0,
+    "constant": false,
+    "normalized_sha256": "71a0618ff0869a5ce307fe26aa8958e443ab030dcb265554ae7860d15858902f",
+    "source_relative_path": "Lable_RGB\\top_potsdam_5_15_label.tif",
+    "source_sha256": "e1ec758c8fe5203f2140b96143221ca7eeb778e18b14f2cb23a92af71090ed63",
+    "crop_top_left": [
+      2800,
+      2800
+    ],
+    "crop_sha256": "d80f1fa651d6bde1032f933b51739cade0cbe9124d13f796733ac04d88cf307e"
+  }
+]

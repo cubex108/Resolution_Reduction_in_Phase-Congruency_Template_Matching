@@ -1,0 +1,4370 @@
+[
+  {
+    "err": 56.88585061331157,
+    "success3": false,
+    "map_range": 0.22073779659311624,
+    "peak_value": 0.23316391062386832,
+    "estimated_top_left": [
+      46.0,
+      0.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      69.5,
+      23.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.5238959656389843,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.06947864138135841,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.030582799983676523,
+    "peak_decode_time_s": 0.0007570000016130507,
+    "single_offset_compute_s": 0.03201439994154498,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 71.21797525905943,
+    "success3": false,
+    "map_range": 0.011410901941189044,
+    "peak_value": 0.0115127598735383,
+    "estimated_top_left": [
+      0.0,
+      100.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      23.5,
+      123.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.6129851942580435,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.0022065925682915166,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.030582799983676523,
+    "peak_decode_time_s": 0.0007570000016130507,
+    "single_offset_compute_s": 0.03201439994154498,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 56.71860364994893,
+    "success3": false,
+    "map_range": 0.24615612258232347,
+    "peak_value": 0.2565255414763651,
+    "estimated_top_left": [
+      42.0,
+      0.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      65.5,
+      23.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.063323797792421,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.05667449526339139,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.031044600007589906,
+    "peak_decode_time_s": 0.0008989999769255519,
+    "single_offset_compute_s": 0.032618199940770864,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 41.72529209005013,
+    "success3": false,
+    "map_range": 0.011016229936332554,
+    "peak_value": 0.011101934148319597,
+    "estimated_top_left": [
+      22.0,
+      26.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      45.5,
+      49.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.5382880809674649,
+    "PSR": 3.8436139241778173,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0014849508957310415,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.031044600007589906,
+    "peak_decode_time_s": 0.0008989999769255519,
+    "single_offset_compute_s": 0.032618199940770864,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 51.97114584074513,
+    "success3": false,
+    "map_range": 0.2093633536313191,
+    "peak_value": 0.21982999908536896,
+    "estimated_top_left": [
+      46.0,
+      0.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      69.5,
+      23.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.3556113892253596,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.06403449402765941,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.028339800017420202,
+    "peak_decode_time_s": 0.0006558000459335744,
+    "single_offset_compute_s": 0.029670200019609183,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 70.60453243241541,
+    "success3": false,
+    "map_range": 0.01159588140019767,
+    "peak_value": 0.011710080031400269,
+    "estimated_top_left": [
+      0.0,
+      94.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      23.5,
+      117.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.7691933247608227,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.0019379396438577781,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.028339800017420202,
+    "peak_decode_time_s": 0.0006558000459335744,
+    "single_offset_compute_s": 0.029670200019609183,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 54.405882034941776,
+    "success3": false,
+    "map_range": 0.21251141630130507,
+    "peak_value": 0.22347603308262978,
+    "estimated_top_left": [
+      2.0,
+      14.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      37.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.8848398469253267,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.04404077152471086,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.027962599997408688,
+    "peak_decode_time_s": 0.0008656999561935663,
+    "single_offset_compute_s": 0.02950289990985766,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 42.5205832509386,
+    "success3": false,
+    "map_range": 0.0111090166962499,
+    "peak_value": 0.011193208630053828,
+    "estimated_top_left": [
+      18.0,
+      14.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      41.5,
+      37.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.5199470512562796,
+    "PSR": 4.310473993742902,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.001089137245162851,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.027962599997408688,
+    "peak_decode_time_s": 0.0008656999561935663,
+    "single_offset_compute_s": 0.02950289990985766,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 79.47955712005447,
+    "success3": false,
+    "map_range": 0.22055925648653144,
+    "peak_value": 0.23458934482739693,
+    "estimated_top_left": [
+      2.0,
+      12.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      25.5,
+      35.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.4070424252446636,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.11111594998381094,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.03232460003346205,
+    "peak_decode_time_s": 0.0007444000220857561,
+    "single_offset_compute_s": 0.03374360001180321,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 80.65358020571685,
+    "success3": false,
+    "map_range": 0.017579041220876453,
+    "peak_value": 0.017748022624503743,
+    "estimated_top_left": [
+      0.0,
+      14.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      23.5,
+      37.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.86045013431529,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.003149123133972735,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.03232460003346205,
+    "peak_decode_time_s": 0.0007444000220857561,
+    "single_offset_compute_s": 0.03374360001180321,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 56.88585061331157,
+    "success3": false,
+    "map_range": 0.2221992938425436,
+    "peak_value": 0.23316391062386832,
+    "estimated_top_left": [
+      6.0,
+      30.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      29.5,
+      53.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.797491460904704,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 3176,
+    "sidelobe_baseline": 0.03415831102898713,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.024684700008947402,
+    "peak_decode_time_s": 0.0007754999678581953,
+    "single_offset_compute_s": 0.026134799933061004,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 48.703182647543684,
+    "success3": false,
+    "map_range": 0.010070893453419069,
+    "peak_value": 0.010155085387222996,
+    "estimated_top_left": [
+      32.0,
+      40.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      55.5,
+      63.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7890437905892514,
+    "PSR": 4.461256647785811,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0007767440599081607,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0006745999562554061,
+    "map_time_s": 0.024684700008947402,
+    "peak_decode_time_s": 0.0007754999678581953,
+    "single_offset_compute_s": 0.026134799933061004,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 22.0,
+    "success3": false,
+    "map_range": 0.13923349476032984,
+    "peak_value": 0.1417066414337431,
+    "estimated_top_left": [
+      34.0,
+      56.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      57.5,
+      79.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.4951893573381313,
+    "PSR": 3.085197332342161,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.02334846270481743,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.026752300036605448,
+    "peak_decode_time_s": 0.0006965000065974891,
+    "single_offset_compute_s": 0.26361760002328083,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.73863375370596,
+    "success3": false,
+    "map_range": 0.0175539884329152,
+    "peak_value": 0.01764255023227327,
+    "estimated_top_left": [
+      32.0,
+      62.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      85.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7686272135803898,
+    "PSR": 6.396799121191029,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0013893474151500792,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.026752300036605448,
+    "peak_decode_time_s": 0.0006965000065974891,
+    "single_offset_compute_s": 0.26361760002328083,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.709920264364882,
+    "success3": false,
+    "map_range": 0.14660588081381878,
+    "peak_value": 0.14945453653908852,
+    "estimated_top_left": [
+      26.0,
+      62.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      49.5,
+      85.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.541421020370392,
+    "PSR": 3.511955355149798,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.019907506856698842,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.029355600010603666,
+    "peak_decode_time_s": 0.001041599956806749,
+    "single_offset_compute_s": 0.2665659999474883,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.248809496813376,
+    "success3": false,
+    "map_range": 0.01694077990017766,
+    "peak_value": 0.017002971394022858,
+    "estimated_top_left": [
+      26.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      49.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7520678390182248,
+    "PSR": 6.389576143847751,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0011362801160695404,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.029355600010603666,
+    "peak_decode_time_s": 0.001041599956806749,
+    "single_offset_compute_s": 0.2665659999474883,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.14242266158684896,
+    "peak_value": 0.14526420506421328,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.159722024371652,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.023119661607629058,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.026881400030106306,
+    "peak_decode_time_s": 0.0009147999808192253,
+    "single_offset_compute_s": 0.2639649999910034,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.0,
+    "success3": false,
+    "map_range": 0.017162623381929303,
+    "peak_value": 0.0172658015348507,
+    "estimated_top_left": [
+      32.0,
+      58.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      55.5,
+      81.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7611713774114032,
+    "PSR": 6.159238553584659,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0012848393348053105,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.026881400030106306,
+    "peak_decode_time_s": 0.0009147999808192253,
+    "single_offset_compute_s": 0.2639649999910034,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.02702209328699,
+    "success3": false,
+    "map_range": 0.14930963733360944,
+    "peak_value": 0.15122764552551934,
+    "estimated_top_left": [
+      0.0,
+      104.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      23.5,
+      127.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.8282369274490367,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 7,
+    "sidelobe_n": 3204,
+    "sidelobe_baseline": 0.017184446563888477,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.028172200021799654,
+    "peak_decode_time_s": 0.000873899960424751,
+    "single_offset_compute_s": 0.2652148999623023,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.73863375370596,
+    "success3": false,
+    "map_range": 0.0175831274708066,
+    "peak_value": 0.01764255023227327,
+    "estimated_top_left": [
+      22.0,
+      52.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      45.5,
+      75.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7492592764494375,
+    "PSR": 6.881751527642072,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0009692111282423241,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.028172200021799654,
+    "peak_decode_time_s": 0.000873899960424751,
+    "single_offset_compute_s": 0.2652148999623023,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.14280039512458206,
+    "peak_value": 0.14526420506421328,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.729288911088335,
+    "PSR": 2.811976605094851,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.05336754385559635,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.030163099989295006,
+    "peak_decode_time_s": 0.0006867000483907759,
+    "single_offset_compute_s": 0.2670186000177637,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.0,
+    "success3": false,
+    "map_range": 0.017162623381929303,
+    "peak_value": 0.0172658015348507,
+    "estimated_top_left": [
+      52.0,
+      48.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      75.5,
+      71.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.84785059237198,
+    "PSR": 5.788573408456168,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0029186381081708524,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.030163099989295006,
+    "peak_decode_time_s": 0.0006867000483907759,
+    "single_offset_compute_s": 0.2670186000177637,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 80.62257748298549,
+    "success3": false,
+    "map_range": 0.1417019778630394,
+    "peak_value": 0.14244543131148674,
+    "estimated_top_left": [
+      6.0,
+      6.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      29.5,
+      29.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.810132601838938,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 7,
+    "sidelobe_n": 3184,
+    "sidelobe_baseline": 0.014411041291517766,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.022455699974671006,
+    "peak_decode_time_s": 0.0006198000046424568,
+    "single_offset_compute_s": 0.25924429995939136,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 78.63841300535,
+    "success3": false,
+    "map_range": 0.015272877730470692,
+    "peak_value": 0.01532442391056853,
+    "estimated_top_left": [
+      6.0,
+      8.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      29.5,
+      31.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 9.446374422479785,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3177,
+    "sidelobe_baseline": 0.0007888639408704128,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2361687999800779,
+    "map_time_s": 0.022455699974671006,
+    "peak_decode_time_s": 0.0006198000046424568,
+    "single_offset_compute_s": 0.25924429995939136,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 72.47068372797375,
+    "success3": false,
+    "map_range": 0.18777390845423342,
+    "peak_value": 0.18777390845423342,
+    "estimated_top_left": [
+      0.0,
+      102.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      23.5,
+      125.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.931232505719311,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3203,
+    "sidelobe_baseline": 0.011869121075280263,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.024817700032144785,
+    "peak_decode_time_s": 0.0008879000088199973,
+    "single_offset_compute_s": 0.07300770003348589,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.832815729997478,
+    "success3": false,
+    "map_range": 0.02555177288095491,
+    "peak_value": 0.02555177288095491,
+    "estimated_top_left": [
+      32.0,
+      68.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      91.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7470834559464423,
+    "PSR": 4.2727075420563745,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0008985449929838898,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.024817700032144785,
+    "peak_decode_time_s": 0.0008879000088199973,
+    "single_offset_compute_s": 0.07300770003348589,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.079872407968907,
+    "success3": false,
+    "map_range": 0.18783977665510482,
+    "peak_value": 0.18783977665510482,
+    "estimated_top_left": [
+      28.0,
+      66.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      89.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6114862042105259,
+    "PSR": 3.1038268636850046,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0073865313932381105,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.02181349997408688,
+    "peak_decode_time_s": 0.000763299991376698,
+    "single_offset_compute_s": 0.06987889995798469,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.079872407968907,
+    "success3": false,
+    "map_range": 0.025131117440138833,
+    "peak_value": 0.025131117440138833,
+    "estimated_top_left": [
+      28.0,
+      66.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      89.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7380370394335319,
+    "PSR": 4.429676343472242,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0005497533976957512,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.02181349997408688,
+    "peak_decode_time_s": 0.000763299991376698,
+    "single_offset_compute_s": 0.06987889995798469,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.1890640563815806,
+    "peak_value": 0.1890640563815806,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2.965026734692197,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.01010720607016911,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.022600000025704503,
+    "peak_decode_time_s": 0.0007029999978840351,
+    "single_offset_compute_s": 0.07060510001610965,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.40075756488817,
+    "success3": false,
+    "map_range": 0.025790562518953113,
+    "peak_value": 0.025790562518953113,
+    "estimated_top_left": [
+      32.0,
+      62.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      55.5,
+      85.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7430294934234262,
+    "PSR": 4.3397995858301925,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.00078775251697174,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.022600000025704503,
+    "peak_decode_time_s": 0.0007029999978840351,
+    "single_offset_compute_s": 0.07060510001610965,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.19348552240652225,
+    "peak_value": 0.19348552240652225,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.456774433850678,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.004479063535704875,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.024438799999188632,
+    "peak_decode_time_s": 0.0013381000026129186,
+    "single_offset_compute_s": 0.07307899999432266,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.832815729997478,
+    "success3": false,
+    "map_range": 0.02555177288095491,
+    "peak_value": 0.02555177288095491,
+    "estimated_top_left": [
+      22.0,
+      58.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      45.5,
+      81.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7276171215733717,
+    "PSR": 4.825080755508574,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.00023898385400874153,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.024438799999188632,
+    "peak_decode_time_s": 0.0013381000026129186,
+    "single_offset_compute_s": 0.07307899999432266,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.1890640563815806,
+    "peak_value": 0.1890640563815806,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.733629595740042,
+    "PSR": 2.5453647715910046,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.061858928075877104,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.03094040002906695,
+    "peak_decode_time_s": 0.0007717999978922307,
+    "single_offset_compute_s": 0.07901430001948029,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.40075756488817,
+    "success3": false,
+    "map_range": 0.025790562518953113,
+    "peak_value": 0.025790562518953113,
+    "estimated_top_left": [
+      52.0,
+      52.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      75.5,
+      75.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.8623615706325318,
+    "PSR": 3.9050615536312407,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.004247597383913782,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.03094040002906695,
+    "peak_decode_time_s": 0.0007717999978922307,
+    "single_offset_compute_s": 0.07901430001948029,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 84.2140130857092,
+    "success3": false,
+    "map_range": 0.2130231234014176,
+    "peak_value": 0.2130231234014176,
+    "estimated_top_left": [
+      10.0,
+      2.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      33.5,
+      25.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.935220836721219,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.0025455543770803776,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.019354899995960295,
+    "peak_decode_time_s": 0.0007616999791935086,
+    "single_offset_compute_s": 0.06741869996767491,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 84.09518416651456,
+    "success3": false,
+    "map_range": 0.023983953343915454,
+    "peak_value": 0.023983953343915454,
+    "estimated_top_left": [
+      12.0,
+      2.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      35.5,
+      25.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.859273381109433,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.00018125395689344418,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04730209999252111,
+    "map_time_s": 0.019354899995960295,
+    "peak_decode_time_s": 0.0007616999791935086,
+    "single_offset_compute_s": 0.06741869996767491,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 21.633307652783937,
+    "success3": false,
+    "map_range": 0.08608252055676185,
+    "peak_value": 0.08915648653301488,
+    "estimated_top_left": [
+      38.0,
+      44.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      61.5,
+      67.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.5811388365375081,
+    "PSR": 3.595215588967004,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.012833723879134066,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.022337700007483363,
+    "peak_decode_time_s": 0.0007915000314824283,
+    "single_offset_compute_s": 0.09259280009428039,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 41.036569057366385,
+    "success3": false,
+    "map_range": 0.008079811467548312,
+    "peak_value": 0.00815946026426416,
+    "estimated_top_left": [
+      28.0,
+      86.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      109.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7799247626521081,
+    "PSR": 5.972036013398485,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0005929005971114555,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.022337700007483363,
+    "peak_decode_time_s": 0.0007915000314824283,
+    "single_offset_compute_s": 0.09259280009428039,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.248809496813376,
+    "success3": false,
+    "map_range": 0.07907936010391042,
+    "peak_value": 0.08216373601376457,
+    "estimated_top_left": [
+      26.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      49.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.5784774512361777,
+    "PSR": 3.3243479238357794,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.01079049667788783,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.022429300006479025,
+    "peak_decode_time_s": 0.0008776999893598258,
+    "single_offset_compute_s": 0.09277060005115345,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 41.72529209005013,
+    "success3": false,
+    "map_range": 0.007654725293601623,
+    "peak_value": 0.007723363723768075,
+    "estimated_top_left": [
+      22.0,
+      86.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      45.5,
+      109.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7523355790325233,
+    "PSR": 5.866783871747833,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0004840867116111376,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.022429300006479025,
+    "peak_decode_time_s": 0.0008776999893598258,
+    "single_offset_compute_s": 0.09277060005115345,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.09420312100864174,
+    "peak_value": 0.09726252253515977,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 4.0500401870219855,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.012529766639715653,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.02176189998863265,
+    "peak_decode_time_s": 0.0009501000167801976,
+    "single_offset_compute_s": 0.09217560006072745,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 40.311288741492746,
+    "success3": false,
+    "map_range": 0.008706938207958814,
+    "peak_value": 0.008785685044500207,
+    "estimated_top_left": [
+      28.0,
+      80.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      51.5,
+      103.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.79072489142005,
+    "PSR": 6.524250104977019,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0005366813140773204,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.02176189998863265,
+    "peak_decode_time_s": 0.0009501000167801976,
+    "single_offset_compute_s": 0.09217560006072745,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.09561806719483674,
+    "peak_value": 0.09869203317108977,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 4.518372339138837,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.010304530457520654,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.018698500003665686,
+    "peak_decode_time_s": 0.0006095999851822853,
+    "single_offset_compute_s": 0.08877170004416257,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.008721330164265295,
+    "peak_value": 0.008799634356196453,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.799061834482761,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.00042130917923824233,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.018698500003665686,
+    "peak_decode_time_s": 0.0006095999851822853,
+    "single_offset_compute_s": 0.08877170004416257,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.09383632290305037,
+    "peak_value": 0.09726252253515977,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.781095245091701,
+    "PSR": 3.7802197860738653,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.029144540862238853,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.02138240000931546,
+    "peak_decode_time_s": 0.0007108999998308718,
+    "single_offset_compute_s": 0.09155690006446093,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 40.311288741492746,
+    "success3": false,
+    "map_range": 0.008688948536956377,
+    "peak_value": 0.008785685044500207,
+    "estimated_top_left": [
+      48.0,
+      70.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      71.5,
+      93.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.8627748564729647,
+    "PSR": 6.232223660867769,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.001225552142937591,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.02138240000931546,
+    "peak_decode_time_s": 0.0007108999998308718,
+    "single_offset_compute_s": 0.09155690006446093,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 80.39900496896712,
+    "success3": false,
+    "map_range": 0.09002797029653883,
+    "peak_value": 0.09310193627279185,
+    "estimated_top_left": [
+      8.0,
+      6.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      31.5,
+      29.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.298899227422767,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3177,
+    "sidelobe_baseline": 0.0092318876223479,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.019857400038745254,
+    "peak_decode_time_s": 0.001067600038368255,
+    "single_offset_compute_s": 0.09038860013242811,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 55.78530272392541,
+    "success3": false,
+    "map_range": 0.007582406754721135,
+    "peak_value": 0.007660710946652294,
+    "estimated_top_left": [
+      2.0,
+      32.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      25.5,
+      55.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 8.361506594689274,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.00033795916056981394,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.0694636000553146,
+    "map_time_s": 0.019857400038745254,
+    "peak_decode_time_s": 0.001067600038368255,
+    "single_offset_compute_s": 0.09038860013242811,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.298221281347036,
+    "success3": false,
+    "map_range": 0.15242011674059747,
+    "peak_value": 0.15321184874516944,
+    "estimated_top_left": [
+      32.0,
+      64.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      87.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6112141100166454,
+    "PSR": 3.169805341648028,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.009335335978172966,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.023298499989323318,
+    "peak_decode_time_s": 0.0007060000207275152,
+    "single_offset_compute_s": 0.0707399999955669,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.02059705733195929,
+    "peak_value": 0.02062480854359096,
+    "estimated_top_left": [
+      32.0,
+      66.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      89.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7767561090296707,
+    "PSR": 5.148370377083371,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0006981014816561265,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.023298499989323318,
+    "peak_decode_time_s": 0.0007060000207275152,
+    "single_offset_compute_s": 0.0707399999955669,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.079872407968907,
+    "success3": false,
+    "map_range": 0.15680103495508224,
+    "peak_value": 0.15772590291571126,
+    "estimated_top_left": [
+      28.0,
+      66.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      89.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6316828205466398,
+    "PSR": 3.418361782982967,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.007484160108493409,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.021569499978795648,
+    "peak_decode_time_s": 0.0007206000154837966,
+    "single_offset_compute_s": 0.06902559997979552,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.079872407968907,
+    "success3": false,
+    "map_range": 0.020099786067897564,
+    "peak_value": 0.020128925171820328,
+    "estimated_top_left": [
+      28.0,
+      66.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      89.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7643602068296055,
+    "PSR": 5.162576076345287,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0005035816031398449,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.021569499978795648,
+    "peak_decode_time_s": 0.0007206000154837966,
+    "single_offset_compute_s": 0.06902559997979552,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.15613622522743734,
+    "peak_value": 0.15689219020796125,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.272162941971601,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.008904479282627486,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.02205079997656867,
+    "peak_decode_time_s": 0.0006931000389158726,
+    "single_offset_compute_s": 0.06947940000100061,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 40.311288741492746,
+    "success3": false,
+    "map_range": 0.020568781543257638,
+    "peak_value": 0.020597846356774262,
+    "estimated_top_left": [
+      28.0,
+      80.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      51.5,
+      103.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6997787784785408,
+    "PSR": 5.157566439689745,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0006265324482431783,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.02205079997656867,
+    "peak_decode_time_s": 0.0006931000389158726,
+    "single_offset_compute_s": 0.06947940000100061,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.15640890040846478,
+    "peak_value": 0.15720063241303675,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.6866879367929104,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.00582145562778351,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.024467699986416847,
+    "peak_decode_time_s": 0.0008350000134669244,
+    "single_offset_compute_s": 0.07203819998539984,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.02059705733195929,
+    "peak_value": 0.02062480854359096,
+    "estimated_top_left": [
+      22.0,
+      56.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      45.5,
+      79.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7622858745553004,
+    "PSR": 5.724950580331695,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0003198390303723498,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.024467699986416847,
+    "peak_decode_time_s": 0.0008350000134669244,
+    "single_offset_compute_s": 0.07203819998539984,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.15613622522743734,
+    "peak_value": 0.15689219020796125,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7732866235830673,
+    "PSR": 2.900653145499141,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.048144255333383665,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.023925999994389713,
+    "peak_decode_time_s": 0.0009896999690681696,
+    "single_offset_compute_s": 0.07165119994897395,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 40.311288741492746,
+    "success3": false,
+    "map_range": 0.020568781543257638,
+    "peak_value": 0.020597846356774262,
+    "estimated_top_left": [
+      48.0,
+      70.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      71.5,
+      93.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7935781936407347,
+    "PSR": 4.813445472922492,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0029871033153011433,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.023925999994389713,
+    "peak_decode_time_s": 0.0009896999690681696,
+    "single_offset_compute_s": 0.07165119994897395,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 84.2140130857092,
+    "success3": false,
+    "map_range": 0.16360409672255502,
+    "peak_value": 0.16448263711625044,
+    "estimated_top_left": [
+      10.0,
+      2.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      33.5,
+      25.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.911319507573832,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.0045898429409497125,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.02335590001894161,
+    "peak_decode_time_s": 0.0006065999623388052,
+    "single_offset_compute_s": 0.07069799996679649,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 80.39900496896712,
+    "success3": false,
+    "map_range": 0.018010225928251227,
+    "peak_value": 0.01803834268625232,
+    "estimated_top_left": [
+      8.0,
+      6.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      31.5,
+      29.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 7.753470310918437,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 8,
+    "sidelobe_n": 3177,
+    "sidelobe_baseline": 0.0002258013748642625,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.04673549998551607,
+    "map_time_s": 0.02335590001894161,
+    "peak_decode_time_s": 0.0006065999623388052,
+    "single_offset_compute_s": 0.07069799996679649,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.298221281347036,
+    "success3": false,
+    "map_range": 0.15238309862282673,
+    "peak_value": 0.15238309862282673,
+    "estimated_top_left": [
+      32.0,
+      64.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      87.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6151317349258848,
+    "PSR": 3.0777400792890357,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.008208813698088416,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.024418100016191602,
+    "peak_decode_time_s": 0.0007258999976329505,
+    "single_offset_compute_s": 0.07802250003442168,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.020899563582304773,
+    "peak_value": 0.020899563582304773,
+    "estimated_top_left": [
+      32.0,
+      66.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      89.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.768492140140624,
+    "PSR": 4.920389700451178,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0005982995058819709,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.024418100016191602,
+    "peak_decode_time_s": 0.0007258999976329505,
+    "single_offset_compute_s": 0.07802250003442168,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.351591323771842,
+    "success3": false,
+    "map_range": 0.1537577886156055,
+    "peak_value": 0.1537577886156055,
+    "estimated_top_left": [
+      28.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.627352683654343,
+    "PSR": 3.2529351424664394,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.005405334676225129,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.025649200018960983,
+    "peak_decode_time_s": 0.0011126999743282795,
+    "single_offset_compute_s": 0.07964040001388639,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.351591323771842,
+    "success3": false,
+    "map_range": 0.021083884889112486,
+    "peak_value": 0.021083884889112486,
+    "estimated_top_left": [
+      28.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.766775375967227,
+    "PSR": 5.14597172483357,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.00031398528658911325,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.025649200018960983,
+    "peak_decode_time_s": 0.0011126999743282795,
+    "single_offset_compute_s": 0.07964040001388639,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.632011235952593,
+    "success3": false,
+    "map_range": 0.15708198784637825,
+    "peak_value": 0.15708198784637825,
+    "estimated_top_left": [
+      32.0,
+      60.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      55.5,
+      83.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6285580390901553,
+    "PSR": 3.2350848311158553,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.006955123663094491,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.023515500011853874,
+    "peak_decode_time_s": 0.0018169000395573676,
+    "single_offset_compute_s": 0.07821090007200837,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.632011235952593,
+    "success3": false,
+    "map_range": 0.020955880412007827,
+    "peak_value": 0.020955880412007827,
+    "estimated_top_left": [
+      32.0,
+      60.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      55.5,
+      83.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7658468063863701,
+    "PSR": 4.956970999338301,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0004940424762408892,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.023515500011853874,
+    "peak_decode_time_s": 0.0018169000395573676,
+    "single_offset_compute_s": 0.07821090007200837,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.15616790785663293,
+    "peak_value": 0.15616790785663293,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.5998865250334804,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.00334178862787969,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.02855950000230223,
+    "peak_decode_time_s": 0.0008737999596633017,
+    "single_offset_compute_s": 0.08231179998256266,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.020899563582304773,
+    "peak_value": 0.020899563582304773,
+    "estimated_top_left": [
+      22.0,
+      56.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      45.5,
+      79.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7526456631569092,
+    "PSR": 5.471810311001385,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.00017086926921789026,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.02855950000230223,
+    "peak_decode_time_s": 0.0008737999596633017,
+    "single_offset_compute_s": 0.08231179998256266,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.632011235952593,
+    "success3": false,
+    "map_range": 0.15708198784637825,
+    "peak_value": 0.15708198784637825,
+    "estimated_top_left": [
+      52.0,
+      50.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      75.5,
+      73.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.8638509525656447,
+    "PSR": 2.8111823303951193,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.04784619076177857,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.02638900000602007,
+    "peak_decode_time_s": 0.0013392000109888613,
+    "single_offset_compute_s": 0.08060670003760606,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 25.632011235952593,
+    "success3": false,
+    "map_range": 0.020955880412007827,
+    "peak_value": 0.020955880412007827,
+    "estimated_top_left": [
+      52.0,
+      50.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      75.5,
+      73.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.8698617858174235,
+    "PSR": 4.572864567456166,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.002940796301632023,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.02638900000602007,
+    "peak_decode_time_s": 0.0013392000109888613,
+    "single_offset_compute_s": 0.08060670003760606,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 84.09518416651456,
+    "success3": false,
+    "map_range": 0.16280728147796653,
+    "peak_value": 0.16280728147796653,
+    "estimated_top_left": [
+      12.0,
+      2.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      35.5,
+      25.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.719842144162206,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.001892130926125858,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.0225637000403367,
+    "peak_decode_time_s": 0.0011464999988675117,
+    "single_offset_compute_s": 0.07658870005980134,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 55.78530272392541,
+    "success3": false,
+    "map_range": 0.017513372483147348,
+    "peak_value": 0.017513372483147348,
+    "estimated_top_left": [
+      2.0,
+      32.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      25.5,
+      55.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.66533920844143,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.00011833912706288323,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.05287850002059713,
+    "map_time_s": 0.0225637000403367,
+    "peak_decode_time_s": 0.0011464999988675117,
+    "single_offset_compute_s": 0.07658870005980134,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.15208443102919786,
+    "peak_value": 0.15208443102919786,
+    "estimated_top_left": [
+      32.0,
+      66.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      89.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6281710087004179,
+    "PSR": 3.0767329024903156,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.008212141249970974,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.023314199992455542,
+    "peak_decode_time_s": 0.000722200027666986,
+    "single_offset_compute_s": 0.2450193000258878,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.020913175496090473,
+    "peak_value": 0.020913175496090473,
+    "estimated_top_left": [
+      32.0,
+      66.0
+    ],
+    "true_top_left": [
+      56.0,
+      56.0
+    ],
+    "estimated_center": [
+      55.5,
+      89.5
+    ],
+    "true_center": [
+      79.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7686182926325534,
+    "PSR": 4.9199057285604555,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0006031074384932143,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.023314199992455542,
+    "peak_decode_time_s": 0.000722200027666986,
+    "single_offset_compute_s": 0.2450193000258878,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.351591323771842,
+    "success3": false,
+    "map_range": 0.15208562208280224,
+    "peak_value": 0.15208562208280224,
+    "estimated_top_left": [
+      28.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6222916412627598,
+    "PSR": 3.2179662314391435,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0054256425662509156,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.021324399975128472,
+    "peak_decode_time_s": 0.0006980000180192292,
+    "single_offset_compute_s": 0.24300529999891296,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 24.351591323771842,
+    "success3": false,
+    "map_range": 0.021127132563701894,
+    "peak_value": 0.021127132563701894,
+    "estimated_top_left": [
+      28.0,
+      64.0
+    ],
+    "true_top_left": [
+      51.0,
+      56.0
+    ],
+    "estimated_center": [
+      51.5,
+      87.5
+    ],
+    "true_center": [
+      74.5,
+      79.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7670254245751721,
+    "PSR": 5.152063706078048,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.0003149368797261658,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.021324399975128472,
+    "peak_decode_time_s": 0.0006980000180192292,
+    "single_offset_compute_s": 0.24300529999891296,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.15722170272915242,
+    "peak_value": 0.15722170272915242,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.217551601363018,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.007253796592924199,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02462710003601387,
+    "peak_decode_time_s": 0.0007252999930642545,
+    "single_offset_compute_s": 0.24633530003484339,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.020979535815260093,
+    "peak_value": 0.020979535815260093,
+    "estimated_top_left": [
+      12.0,
+      110.0
+    ],
+    "true_top_left": [
+      56.0,
+      51.0
+    ],
+    "estimated_center": [
+      35.5,
+      133.5
+    ],
+    "true_center": [
+      79.5,
+      74.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 4.854016293271042,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.0005253242473823997,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02462710003601387,
+    "peak_decode_time_s": 0.0007252999930642545,
+    "single_offset_compute_s": 0.24633530003484339,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 74.4043009509531,
+    "success3": false,
+    "map_range": 0.1558491519370602,
+    "peak_value": 0.1558491519370602,
+    "estimated_top_left": [
+      2.0,
+      106.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      25.5,
+      129.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3.5998523324558707,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 6,
+    "sidelobe_n": 3200,
+    "sidelobe_baseline": 0.0033487616982823985,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02604660001816228,
+    "peak_decode_time_s": 0.0007261999999172986,
+    "single_offset_compute_s": 0.24775570002384484,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 26.0,
+    "success3": false,
+    "map_range": 0.020913175496090473,
+    "peak_value": 0.020913175496090473,
+    "estimated_top_left": [
+      22.0,
+      56.0
+    ],
+    "true_top_left": [
+      46.0,
+      46.0
+    ],
+    "estimated_center": [
+      45.5,
+      79.5
+    ],
+    "true_center": [
+      69.5,
+      69.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7526092880621387,
+    "PSR": 5.470460273928379,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.00017108516941291828,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02604660001816228,
+    "peak_decode_time_s": 0.0007261999999172986,
+    "single_offset_compute_s": 0.24775570002384484,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.15722170272915242,
+    "peak_value": 0.15722170272915242,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7531757388361792,
+    "PSR": 2.81794694397909,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.046608970737574175,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.023641200037673116,
+    "peak_decode_time_s": 0.0008523999713361263,
+    "single_offset_compute_s": 0.2454765000147745,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 73.60027173862879,
+    "success3": false,
+    "map_range": 0.020979535815260093,
+    "peak_value": 0.020979535815260093,
+    "estimated_top_left": [
+      32.0,
+      100.0
+    ],
+    "true_top_left": [
+      76.0,
+      41.0
+    ],
+    "estimated_center": [
+      55.5,
+      123.5
+    ],
+    "true_center": [
+      99.5,
+      64.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.779183682177718,
+    "PSR": 4.515544267488228,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 3168,
+    "sidelobe_baseline": 0.002897391297678779,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.023641200037673116,
+    "peak_decode_time_s": 0.0008523999713361263,
+    "single_offset_compute_s": 0.2454765000147745,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 84.09518416651456,
+    "success3": false,
+    "map_range": 0.16402188620632638,
+    "peak_value": 0.16402188620632638,
+    "estimated_top_left": [
+      12.0,
+      2.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      35.5,
+      25.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5.774395341107803,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.0018978005336668254,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02053939999314025,
+    "peak_decode_time_s": 0.0006065000197850168,
+    "single_offset_compute_s": 0.24212880001869053,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 55.78530272392541,
+    "success3": false,
+    "map_range": 0.017574013075627865,
+    "peak_value": 0.017574013075627865,
+    "estimated_top_left": [
+      2.0,
+      32.0
+    ],
+    "true_top_left": [
+      16.0,
+      86.0
+    ],
+    "estimated_center": [
+      25.5,
+      55.5
+    ],
+    "true_center": [
+      39.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.677159236310713,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 3194,
+    "sidelobe_baseline": 0.0001184098617473201,
+    "dataset": "SAR",
+    "pair_id": "SAR_17402",
+    "historical": false,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.22098290000576526,
+    "map_time_s": 0.02053939999314025,
+    "peak_decode_time_s": 0.0006065000197850168,
+    "single_offset_compute_s": 0.24212880001869053,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  }
+]

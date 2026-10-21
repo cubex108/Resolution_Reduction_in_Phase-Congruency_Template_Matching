@@ -1,0 +1,65 @@
+[
+  {
+    "decoder": "Pillow",
+    "source_shape": [
+      256,
+      256,
+      3
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YXS",
+    "photometric": "RGB",
+    "modality": "gray",
+    "selected_channels_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "channel_semantics": "RGB luminance encoding",
+    "rgb_weights": [
+      0.299,
+      0.587,
+      0.114
+    ],
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 28.063,
+    "selected_max": 218.769,
+    "constant": false,
+    "normalized_sha256": "f6509caf01a52ce6bc6de9171e77b3cd7e1a2b40c13f7037d9efa303d1c1ad46",
+    "source_relative_path": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\opt_256_oc_0.2\\10073.png",
+    "source_sha256": "aa910db6725d62a6289d0ffebc2534b5d7650a35662e093790d617d44c78377c",
+    "crop_top_left": [
+      8,
+      8
+    ],
+    "crop_sha256": "d62f01b1cc161409a5305ca9803c9932aac4e4e51f0d337e31540ac5a0c25213"
+  },
+  {
+    "decoder": "Pillow",
+    "source_shape": [
+      256,
+      256
+    ],
+    "source_dtype": "uint8",
+    "source_axes": "YX",
+    "photometric": "L",
+    "modality": "gray",
+    "selected_channels_zero_based": [
+      0
+    ],
+    "channel_semantics": "single scalar channel",
+    "rgb_weights": null,
+    "normalization": "per-image min-max after channel selection; constant image -> zero",
+    "selected_min": 1.0,
+    "selected_max": 255.0,
+    "constant": false,
+    "normalized_sha256": "6e74ab07b998c6bfdb812ab6980252c34f5416e732b30a3e083a0cf7332ba96d",
+    "source_relative_path": "QXSLAB_SAROPT\\QXSLAB_SAROPT\\sar_256_oc_0.2\\10073.png",
+    "source_sha256": "3f0442943f9bc57a05b9fe083b210a13c83ee418a53ad118c7998a5e99d127db",
+    "crop_top_left": [
+      8,
+      8
+    ],
+    "crop_sha256": "d1a934007686cfc856f343cffaa167a0995c3738bbb25f9884d6d0c75d1d71a7"
+  }
+]

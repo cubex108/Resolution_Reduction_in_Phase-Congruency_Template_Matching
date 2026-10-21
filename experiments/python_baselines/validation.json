@@ -1,0 +1,122 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "independent_phasepack_agreement_hopc_(33, 35)",
+      "passed": true,
+      "complex_response_max_abs": 1.4625272457240153e-16,
+      "maximum_moment_max_abs": 1.734723475976807e-17
+    },
+    {
+      "name": "independent_phasepack_agreement_rift_(33, 35)",
+      "passed": true,
+      "complex_response_max_abs": 1.421309240007228e-16,
+      "maximum_moment_max_abs": 5.637851296924623e-18
+    },
+    {
+      "name": "independent_phasepack_agreement_hopc_(32, 36)",
+      "passed": true,
+      "complex_response_max_abs": 1.559322466582485e-16,
+      "maximum_moment_max_abs": 1.9081958235744878e-17
+    },
+    {
+      "name": "independent_phasepack_agreement_rift_(32, 36)",
+      "passed": true,
+      "complex_response_max_abs": 1.4080409682044282e-16,
+      "maximum_moment_max_abs": 7.914675859144182e-18
+    },
+    {
+      "name": "constant_0.0",
+      "passed": true
+    },
+    {
+      "name": "constant_rift_0.0",
+      "passed": true
+    },
+    {
+      "name": "constant_1.0",
+      "passed": true
+    },
+    {
+      "name": "constant_rift_1.0",
+      "passed": true
+    },
+    {
+      "name": "unsigned_orientation_contrast_inversion",
+      "passed": true,
+      "descriptor_max_abs": 2.673190453513657e-15
+    },
+    {
+      "name": "trilinear_histogram_literal_reference",
+      "passed": true,
+      "max_abs": 7.968672444125247e-09
+    },
+    {
+      "name": "fft_ncc_matches_direct_vectors",
+      "passed": true,
+      "max_abs": 1.1657341758564144e-15
+    },
+    {
+      "name": "rift_invalid_point_filter",
+      "passed": true
+    },
+    {
+      "name": "rift_97px_histogram_matlab_index_reference",
+      "passed": true,
+      "max_abs": 3.6957584492736117e-09
+    },
+    {
+      "name": "affine_known_transform_with_outliers",
+      "passed": true,
+      "status": "ok",
+      "matches": 40,
+      "inliers": 25,
+      "trials": 50
+    },
+    {
+      "name": "degenerate_affine_explicit_failure",
+      "passed": true,
+      "status": "degenerate_geometry",
+      "matches": 8,
+      "inliers": 0,
+      "trials": 56
+    },
+    {
+      "name": "integer_translation_no_wrap",
+      "passed": true
+    },
+    {
+      "name": "hopc_known_translation",
+      "passed": true,
+      "estimated_origin": [
+        106,
+        90
+      ],
+      "expected": [
+        106,
+        90
+      ]
+    },
+    {
+      "name": "rift_known_translation",
+      "passed": true,
+      "transform_max_abs_error": 0.009557218053785732,
+      "status": "ok",
+      "matches": 684,
+      "inliers": 644,
+      "trials": 50,
+      "keypoints_a": 1015,
+      "keypoints_b": 786
+    },
+    {
+      "name": "rift_self_matching",
+      "passed": true,
+      "keypoints": 1015
+    }
+  ],
+  "check_count": 19,
+  "synthetic_feature_seconds": 1.185858000011649,
+  "core_sha256": "1de60a7a392b06a78fdf5f1c5665b59003e4ace8780bbcb502e4c54f159f1722",
+  "scope": "Mathematical, reference-port and synthetic tests; no native MATLAB or official binary equivalence claim.",
+  "validation_input_seed": 481
+}

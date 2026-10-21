@@ -1,0 +1,13 @@
+# Direct experiment, analysis, and figure dependencies in the recorded reference environment.
+# Python 3.10.21 / Windows; this is not a complete environment lock.
+# The frozen protocol also checks interpreter path, transitive versions,
+# thread settings, and execution-source hashes; see README.md.
+numpy==2.2.6
+scipy==1.15.3
+PyWavelets==1.8.0
+tifffile==2025.5.10
+phasepack==1.5
+numba==0.61.2
+Pillow==11.3.0
+opencv-python==5.0.0.93
+matplotlib==3.10.5

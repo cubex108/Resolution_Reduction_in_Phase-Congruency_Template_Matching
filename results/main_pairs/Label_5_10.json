@@ -1,0 +1,4370 @@
+[
+  {
+    "err": 124.45079348883236,
+    "success3": false,
+    "map_range": 0.13228097004310743,
+    "peak_value": 0.13228097004310743,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 9.692979567289772,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07514590001665056,
+    "peak_decode_time_s": 0.0016988000134006143,
+    "single_offset_compute_s": 0.0812088000238873,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 106.07544484940895,
+    "success3": false,
+    "map_range": 0.0038799534423208147,
+    "peak_value": 0.0038799534423208147,
+    "estimated_top_left": [
+      12.0,
+      162.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      43.5,
+      193.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.2763899953335759,
+    "PSR": 12.000726873684526,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07514590001665056,
+    "peak_decode_time_s": 0.0016988000134006143,
+    "single_offset_compute_s": 0.0812088000238873,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 105.3612832116238,
+    "success3": false,
+    "map_range": 0.12127645713560717,
+    "peak_value": 0.12127645713560717,
+    "estimated_top_left": [
+      8.0,
+      162.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      39.5,
+      193.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.00280880572689,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07715359999565408,
+    "peak_decode_time_s": 0.0012903999886475503,
+    "single_offset_compute_s": 0.08280809997813776,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 105.3612832116238,
+    "success3": false,
+    "map_range": 0.0038519707707755646,
+    "peak_value": 0.0038519707707755646,
+    "estimated_top_left": [
+      8.0,
+      162.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      39.5,
+      193.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 16.17033193182762,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07715359999565408,
+    "peak_decode_time_s": 0.0012903999886475503,
+    "single_offset_compute_s": 0.08280809997813776,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 128.03515142334936,
+    "success3": false,
+    "map_range": 0.14559665338064787,
+    "peak_value": 0.14559665338064787,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 9.883782046035748,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.08061079995241016,
+    "peak_decode_time_s": 0.0012947000213898718,
+    "single_offset_compute_s": 0.08626959996763617,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 105.38026380684383,
+    "success3": false,
+    "map_range": 0.0038627478857892017,
+    "peak_value": 0.0038627478857892017,
+    "estimated_top_left": [
+      12.0,
+      156.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      43.5,
+      187.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.2807086070367379,
+    "PSR": 10.802620320509575,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.08061079995241016,
+    "peak_decode_time_s": 0.0012947000213898718,
+    "single_offset_compute_s": 0.08626959996763617,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 106.07544484940895,
+    "success3": false,
+    "map_range": 0.12247269481484244,
+    "peak_value": 0.12247269481484244,
+    "estimated_top_left": [
+      2.0,
+      152.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      33.5,
+      183.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.21558889279027,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.08059029997093603,
+    "peak_decode_time_s": 0.002086399996187538,
+    "single_offset_compute_s": 0.0870407999609597,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 106.07544484940895,
+    "success3": false,
+    "map_range": 0.0038799534423208147,
+    "peak_value": 0.0038799534423208147,
+    "estimated_top_left": [
+      2.0,
+      152.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      33.5,
+      183.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 17.38355861662771,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.08059029997093603,
+    "peak_decode_time_s": 0.002086399996187538,
+    "single_offset_compute_s": 0.0870407999609597,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 132.20060514233663,
+    "success3": false,
+    "map_range": 0.20584271132137688,
+    "peak_value": 0.20584271132137688,
+    "estimated_top_left": [
+      2.0,
+      152.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      33.5,
+      183.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 7.353178713954602,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07621560001280159,
+    "peak_decode_time_s": 0.0010286999749951065,
+    "single_offset_compute_s": 0.08160839998163283,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 130.60245020672468,
+    "success3": false,
+    "map_range": 0.005186667853697104,
+    "peak_value": 0.005186667853697104,
+    "estimated_top_left": [
+      4.0,
+      152.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      35.5,
+      183.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6.866678471160208,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7857,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.07621560001280159,
+    "peak_decode_time_s": 0.0010286999749951065,
+    "single_offset_compute_s": 0.08160839998163283,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.0021280589091303374,
+    "peak_value": 0.0021280589091303374,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": null,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.06869530002586544,
+    "peak_decode_time_s": 0.0007946999976411462,
+    "single_offset_compute_s": 0.07385410001734272,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 5.696821865131212e-05,
+    "peak_value": 5.696821865131212e-05,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": null,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "raw",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.004364099993836135,
+    "map_time_s": 0.06869530002586544,
+    "peak_decode_time_s": 0.0007946999976411462,
+    "single_offset_compute_s": 0.07385410001734272,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 87.13208364316786,
+    "success3": false,
+    "map_range": 0.029291508405289296,
+    "peak_value": 0.029291508405289296,
+    "estimated_top_left": [
+      42.0,
+      162.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      73.5,
+      193.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.593719853268627,
+    "PSR": 8.129968721921957,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07400019996566698,
+    "peak_decode_time_s": 0.0008938999962992966,
+    "single_offset_compute_s": 1.9216033999691717,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 88.83692925805124,
+    "success3": false,
+    "map_range": 0.0019304629084688173,
+    "peak_value": 0.0019304629084688173,
+    "estimated_top_left": [
+      42.0,
+      164.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      73.5,
+      195.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6725703141080271,
+    "PSR": 11.663777192575884,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07400019996566698,
+    "peak_decode_time_s": 0.0008938999962992966,
+    "single_offset_compute_s": 1.9216033999691717,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.8382517044894,
+    "success3": false,
+    "map_range": 0.031070340368949855,
+    "peak_value": 0.031070340368949855,
+    "estimated_top_left": [
+      38.0,
+      176.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      207.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 8.858099678652183,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7875,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07408130000112578,
+    "peak_decode_time_s": 0.0007076000329107046,
+    "single_offset_compute_s": 1.921498200041242,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.25487000666512,
+    "success3": false,
+    "map_range": 0.0021463010727771088,
+    "peak_value": 0.0021463010727771088,
+    "estimated_top_left": [
+      36.0,
+      172.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      67.5,
+      203.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 13.66720164086978,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7857,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07408130000112578,
+    "peak_decode_time_s": 0.0007076000329107046,
+    "single_offset_compute_s": 1.921498200041242,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 86.28441342444185,
+    "success3": false,
+    "map_range": 0.029132204495829754,
+    "peak_value": 0.029132204495829754,
+    "estimated_top_left": [
+      42.0,
+      156.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      73.5,
+      187.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6025306184730308,
+    "PSR": 7.579968373332238,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.0702813999960199,
+    "peak_decode_time_s": 0.0007261999999172986,
+    "single_offset_compute_s": 1.9177169000031427,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 99.36297097007517,
+    "success3": false,
+    "map_range": 0.0019781336469999865,
+    "peak_value": 0.0019781336469999865,
+    "estimated_top_left": [
+      40.0,
+      170.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      71.5,
+      201.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 11.14148409607774,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7848,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.0702813999960199,
+    "peak_decode_time_s": 0.0007261999999172986,
+    "single_offset_compute_s": 1.9177169000031427,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 87.13208364316786,
+    "success3": false,
+    "map_range": 0.029291508405289296,
+    "peak_value": 0.029291508405289296,
+    "estimated_top_left": [
+      32.0,
+      152.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      63.5,
+      183.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.593719853268627,
+    "PSR": 8.438327798749166,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07275659998413175,
+    "peak_decode_time_s": 0.0013415999710559845,
+    "single_offset_compute_s": 1.9208074999623932,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 88.83692925805124,
+    "success3": false,
+    "map_range": 0.0019304629084688173,
+    "peak_value": 0.0019304629084688173,
+    "estimated_top_left": [
+      32.0,
+      154.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      63.5,
+      185.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.672570314108027,
+    "PSR": 11.56161432272307,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07275659998413175,
+    "peak_decode_time_s": 0.0013415999710559845,
+    "single_offset_compute_s": 1.9208074999623932,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 86.28441342444185,
+    "success3": false,
+    "map_range": 0.029132204495829754,
+    "peak_value": 0.029132204495829754,
+    "estimated_top_left": [
+      62.0,
+      146.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      93.5,
+      177.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6025306184730308,
+    "PSR": 5.531792548735793,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07386659999610856,
+    "peak_decode_time_s": 0.0008430999587289989,
+    "single_offset_compute_s": 1.921418999962043,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 99.36297097007517,
+    "success3": false,
+    "map_range": 0.0019781336469999865,
+    "peak_value": 0.0019781336469999865,
+    "estimated_top_left": [
+      60.0,
+      160.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      91.5,
+      191.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.683643004368974,
+    "PSR": 8.461162034107828,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.07386659999610856,
+    "peak_decode_time_s": 0.0008430999587289989,
+    "single_offset_compute_s": 1.921418999962043,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.009286676905113672,
+    "peak_value": 0.009286676905113672,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": null,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.06737509998492897,
+    "peak_decode_time_s": 0.0006697999779134989,
+    "single_offset_compute_s": 1.914754199970048,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.00039026544623495176,
+    "peak_value": 0.00039026544623495176,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": null,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "full_pc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 1.8467093000072055,
+    "map_time_s": 0.06737509998492897,
+    "peak_decode_time_s": 0.0006697999779134989,
+    "single_offset_compute_s": 1.914754199970048,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.060188149001637846,
+    "peak_value": 0.060188149001637846,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 12.37007572615941,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.06570139998802915,
+    "peak_decode_time_s": 0.0006632999866269529,
+    "single_offset_compute_s": 0.20181390002835542,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.003715923829781978,
+    "peak_value": 0.003715923829781978,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 17.41219034350576,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.06570139998802915,
+    "peak_decode_time_s": 0.0006632999866269529,
+    "single_offset_compute_s": 0.20181390002835542,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.062170315251056235,
+    "peak_value": 0.062170315251056235,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 13.388813603461958,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07162340002832934,
+    "peak_decode_time_s": 0.0007292999653145671,
+    "single_offset_compute_s": 0.20780190004734322,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.0038009506375561615,
+    "peak_value": 0.0038009506375561615,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 18.817544818548335,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07162340002832934,
+    "peak_decode_time_s": 0.0007292999653145671,
+    "single_offset_compute_s": 0.20780190004734322,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.060244201701039946,
+    "peak_value": 0.060244201701039946,
+    "estimated_top_left": [
+      44.0,
+      170.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      201.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 11.814707683964452,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7848,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.06602219998603687,
+    "peak_decode_time_s": 0.0008723000064492226,
+    "single_offset_compute_s": 0.2023437000461854,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.003745681787769191,
+    "peak_value": 0.003745681787769191,
+    "estimated_top_left": [
+      44.0,
+      170.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      201.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 16.768298436252604,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7848,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.06602219998603687,
+    "peak_decode_time_s": 0.0008723000064492226,
+    "single_offset_compute_s": 0.2023437000461854,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.060188149001637846,
+    "peak_value": 0.060188149001637846,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.635270766506318,
+    "PSR": 12.285675808215881,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07186450000153854,
+    "peak_decode_time_s": 0.0010401999461464584,
+    "single_offset_compute_s": 0.20835390000138432,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.003715923829781978,
+    "peak_value": 0.003715923829781978,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6830181618168257,
+    "PSR": 16.964589726263466,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07186450000153854,
+    "peak_decode_time_s": 0.0010401999461464584,
+    "single_offset_compute_s": 0.20835390000138432,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.060244201701039946,
+    "peak_value": 0.060244201701039946,
+    "estimated_top_left": [
+      64.0,
+      160.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      191.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6386534772644076,
+    "PSR": 9.314560282096974,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07526509999297559,
+    "peak_decode_time_s": 0.0008380000363104045,
+    "single_offset_compute_s": 0.2115523000829853,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.003745681787769191,
+    "peak_value": 0.003745681787769191,
+    "estimated_top_left": [
+      64.0,
+      160.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      191.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.6844342605244098,
+    "PSR": 12.811668278640594,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.07526509999297559,
+    "peak_decode_time_s": 0.0008380000363104045,
+    "single_offset_compute_s": 0.2115523000829853,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.005210777923609312,
+    "peak_value": 0.005210777923609312,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2539.6428107208494,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.0709192999638617,
+    "peak_decode_time_s": 0.000659200013615191,
+    "single_offset_compute_s": 0.2070277000311762,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.00026958380275198326,
+    "peak_value": 0.00026958380275198326,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 2685.7691483117524,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "down_pc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.13544920005369931,
+    "map_time_s": 0.0709192999638617,
+    "peak_decode_time_s": 0.000659200013615191,
+    "single_offset_compute_s": 0.2070277000311762,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.52948272189288,
+    "success3": false,
+    "map_range": 0.036727624231331336,
+    "peak_value": 0.036727624231331336,
+    "estimated_top_left": [
+      42.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      73.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 16.960587595189413,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07034890004433692,
+    "peak_decode_time_s": 0.0007194000063464046,
+    "single_offset_compute_s": 0.3152747000567615,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.52948272189288,
+    "success3": false,
+    "map_range": 0.0019774481635481504,
+    "peak_value": 0.0019774481635481504,
+    "estimated_top_left": [
+      42.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      73.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 23.042233823101345,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07034890004433692,
+    "peak_decode_time_s": 0.0007194000063464046,
+    "single_offset_compute_s": 0.3152747000567615,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.03659618677850973,
+    "peak_value": 0.03659618677850973,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 17.53970650106544,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.08498709998093545,
+    "peak_decode_time_s": 0.0009357999661006033,
+    "single_offset_compute_s": 0.33012929995311424,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.00196019231584999,
+    "peak_value": 0.00196019231584999,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 23.524546399723288,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.08498709998093545,
+    "peak_decode_time_s": 0.0009357999661006033,
+    "single_offset_compute_s": 0.33012929995311424,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.41239759298622,
+    "success3": false,
+    "map_range": 0.035807068560007184,
+    "peak_value": 0.035807068560007184,
+    "estimated_top_left": [
+      42.0,
+      170.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      73.5,
+      201.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.938510298882724,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7848,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07911580003565177,
+    "peak_decode_time_s": 0.0008489000028930604,
+    "single_offset_compute_s": 0.324171100044623,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.6165969494942,
+    "success3": false,
+    "map_range": 0.0019222670269027882,
+    "peak_value": 0.0019222670269027882,
+    "estimated_top_left": [
+      40.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      71.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 22.448391046350697,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07911580003565177,
+    "peak_decode_time_s": 0.0008489000028930604,
+    "single_offset_compute_s": 0.324171100044623,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.52948272189288,
+    "success3": false,
+    "map_range": 0.036727624231331336,
+    "peak_value": 0.036727624231331336,
+    "estimated_top_left": [
+      32.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      63.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7351581470967625,
+    "PSR": 17.016158220044442,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.06974130001617596,
+    "peak_decode_time_s": 0.0007987000280991197,
+    "single_offset_compute_s": 0.31474640005035326,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.52948272189288,
+    "success3": false,
+    "map_range": 0.0019774481635481504,
+    "peak_value": 0.0019774481635481504,
+    "estimated_top_left": [
+      32.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      63.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7786879212312731,
+    "PSR": 22.623104253127696,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.06974130001617596,
+    "peak_decode_time_s": 0.0007987000280991197,
+    "single_offset_compute_s": 0.31474640005035326,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.41239759298622,
+    "success3": false,
+    "map_range": 0.035807068560007184,
+    "peak_value": 0.035807068560007184,
+    "estimated_top_left": [
+      62.0,
+      160.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      93.5,
+      191.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7329108788460326,
+    "PSR": 12.387972829975158,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07073050003964454,
+    "peak_decode_time_s": 0.0008124999585561454,
+    "single_offset_compute_s": 0.31574940000427887,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.6165969494942,
+    "success3": false,
+    "map_range": 0.0019222670269027882,
+    "peak_value": 0.0019222670269027882,
+    "estimated_top_left": [
+      60.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      91.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7453976150508751,
+    "PSR": 16.828068750119662,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.07073050003964454,
+    "peak_decode_time_s": 0.0008124999585561454,
+    "single_offset_compute_s": 0.31574940000427887,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.0024685772012884633,
+    "peak_value": 0.0024685772012884633,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 4661.014869170681,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.06623739999486133,
+    "peak_decode_time_s": 0.0008778999908827245,
+    "single_offset_compute_s": 0.31132169999182224,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 8.459933109680132e-05,
+    "peak_value": 8.459933109680132e-05,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 3876.2150221332063,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.24420640000607818,
+    "map_time_s": 0.06623739999486133,
+    "peak_decode_time_s": 0.0008778999908827245,
+    "single_offset_compute_s": 0.31132169999182224,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05526135932379075,
+    "peak_value": 0.05526135932379075,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.104928287958124,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.06628299999283627,
+    "peak_decode_time_s": 0.0006988000241108239,
+    "single_offset_compute_s": 0.3055768000194803,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.0032390273861340768,
+    "peak_value": 0.0032390273861340768,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.700114979522432,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.06628299999283627,
+    "peak_decode_time_s": 0.0006988000241108239,
+    "single_offset_compute_s": 0.3055768000194803,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.8382517044894,
+    "success3": false,
+    "map_range": 0.05485016170877273,
+    "peak_value": 0.05485016170877273,
+    "estimated_top_left": [
+      38.0,
+      176.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      207.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.293856993244365,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7875,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.06934909999836236,
+    "peak_decode_time_s": 0.0008553999941796064,
+    "single_offset_compute_s": 0.30879949999507517,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.003250154297846506,
+    "peak_value": 0.003250154297846506,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 21.759311545905998,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.06934909999836236,
+    "peak_decode_time_s": 0.0008553999941796064,
+    "single_offset_compute_s": 0.30879949999507517,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.05579362513661029,
+    "peak_value": 0.05579362513661029,
+    "estimated_top_left": [
+      44.0,
+      170.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      201.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 14.670495021021429,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 11,
+    "sidelobe_n": 7848,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07480330002726987,
+    "peak_decode_time_s": 0.0008239000453613698,
+    "single_offset_compute_s": 0.31422220007516444,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032469602922728267,
+    "peak_value": 0.0032469602922728267,
+    "estimated_top_left": [
+      44.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.25439779576336,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07480330002726987,
+    "peak_decode_time_s": 0.0008239000453613698,
+    "single_offset_compute_s": 0.31422220007516444,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05526135932379075,
+    "peak_value": 0.05526135932379075,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.711614952875359,
+    "PSR": 15.002782547041038,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07281729998067021,
+    "peak_decode_time_s": 0.000818000000435859,
+    "single_offset_compute_s": 0.31223029998363927,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.0032390273861340768,
+    "peak_value": 0.0032390273861340768,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7378238282646775,
+    "PSR": 19.92884330411352,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07281729998067021,
+    "peak_decode_time_s": 0.000818000000435859,
+    "single_offset_compute_s": 0.31223029998363927,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.49358953285082,
+    "success3": false,
+    "map_range": 0.05579362513661029,
+    "peak_value": 0.05579362513661029,
+    "estimated_top_left": [
+      64.0,
+      160.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      191.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.710697802876042,
+    "PSR": 11.671601376884588,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07230719999643043,
+    "peak_decode_time_s": 0.0013628999586217105,
+    "single_offset_compute_s": 0.31226509995758533,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032469602922728267,
+    "peak_value": 0.0032469602922728267,
+    "estimated_top_left": [
+      64.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7377171444992127,
+    "PSR": 14.990164322408278,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.07230719999643043,
+    "peak_decode_time_s": 0.0013628999586217105,
+    "single_offset_compute_s": 0.31226509995758533,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.0037401679972762347,
+    "peak_value": 0.0037401679972762347,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5916.285458337443,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.0670669000246562,
+    "peak_decode_time_s": 0.0006382999708876014,
+    "single_offset_compute_s": 0.306300199998077,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.00020512574941967238,
+    "peak_value": 0.00020512574941967238,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6645.8651708985835,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "mfpc_scale_matched",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.2385950000025332,
+    "map_time_s": 0.0670669000246562,
+    "peak_decode_time_s": 0.0006382999708876014,
+    "single_offset_compute_s": 0.306300199998077,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05513044946396579,
+    "peak_value": 0.05513044946396579,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 14.921583535828642,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.0788444000063464,
+    "peak_decode_time_s": 0.001270200009457767,
+    "single_offset_compute_s": 0.28009080002084374,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.003245597760794986,
+    "peak_value": 0.003245597760794986,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.40646313309394,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.0788444000063464,
+    "peak_decode_time_s": 0.001270200009457767,
+    "single_offset_compute_s": 0.28009080002084374,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.8382517044894,
+    "success3": false,
+    "map_range": 0.0552126135048558,
+    "peak_value": 0.0552126135048558,
+    "estimated_top_left": [
+      38.0,
+      176.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      207.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.173254923564508,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7875,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07079479994717985,
+    "peak_decode_time_s": 0.0008087000460363925,
+    "single_offset_compute_s": 0.2715796999982558,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.0032801680644741673,
+    "peak_value": 0.0032801680644741673,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 21.41582129100274,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07079479994717985,
+    "peak_decode_time_s": 0.0008087000460363925,
+    "single_offset_compute_s": 0.2715796999982558,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.05555937251498504,
+    "peak_value": 0.05555937251498504,
+    "estimated_top_left": [
+      44.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 14.692358017233461,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.06699510000180453,
+    "peak_decode_time_s": 0.0006921999738551676,
+    "single_offset_compute_s": 0.26766349998069927,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032677512038113464,
+    "peak_value": 0.0032677512038113464,
+    "estimated_top_left": [
+      44.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.001109417056846,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.06699510000180453,
+    "peak_decode_time_s": 0.0006921999738551676,
+    "single_offset_compute_s": 0.26766349998069927,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05513044946396579,
+    "peak_value": 0.05513044946396579,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7064938780739749,
+    "PSR": 14.832091433003134,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.06827260000864044,
+    "peak_decode_time_s": 0.0008695999858900905,
+    "single_offset_compute_s": 0.2691183999995701,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.003245597760794986,
+    "peak_value": 0.003245597760794986,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7352086388851174,
+    "PSR": 19.6601392168557,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.06827260000864044,
+    "peak_decode_time_s": 0.0008695999858900905,
+    "single_offset_compute_s": 0.2691183999995701,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.05555937251498504,
+    "peak_value": 0.05555937251498504,
+    "estimated_top_left": [
+      64.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7027020212278707,
+    "PSR": 11.428106256195283,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07258749997708946,
+    "peak_decode_time_s": 0.0008011999889276922,
+    "single_offset_compute_s": 0.27336489997105673,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032677512038113464,
+    "peak_value": 0.0032677512038113464,
+    "estimated_top_left": [
+      64.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7349676367400031,
+    "PSR": 14.801508805428375,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07258749997708946,
+    "peak_decode_time_s": 0.0008011999889276922,
+    "single_offset_compute_s": 0.27336489997105673,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.003780640102286142,
+    "peak_value": 0.003780640102286142,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5937.863796571231,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07228219998069108,
+    "peak_decode_time_s": 0.001068499987013638,
+    "single_offset_compute_s": 0.2733268999727443,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.00021382844266201604,
+    "peak_value": 0.00021382844266201604,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6853.331185087129,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "no_detail",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.19997620000503957,
+    "map_time_s": 0.07228219998069108,
+    "peak_decode_time_s": 0.001068499987013638,
+    "single_offset_compute_s": 0.2733268999727443,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05525059591985257,
+    "peak_value": 0.05525059591985257,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 14.996202284720109,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07475959998555481,
+    "peak_decode_time_s": 0.0008594000246375799,
+    "single_offset_compute_s": 0.9518176999990828,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.0032632087864139362,
+    "peak_value": 0.0032632087864139362,
+    "estimated_top_left": [
+      44.0,
+      174.0
+    ],
+    "true_top_left": [
+      88.0,
+      88.0
+    ],
+    "estimated_center": [
+      75.5,
+      205.5
+    ],
+    "true_center": [
+      119.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.65377990925004,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07475959998555481,
+    "peak_decode_time_s": 0.0008594000246375799,
+    "single_offset_compute_s": 0.9518176999990828,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 98.8382517044894,
+    "success3": false,
+    "map_range": 0.05496596387808616,
+    "peak_value": 0.05496596387808616,
+    "estimated_top_left": [
+      38.0,
+      176.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      207.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 15.153222533402547,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7875,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07362199999624863,
+    "peak_decode_time_s": 0.0017981999553740025,
+    "single_offset_compute_s": 0.9516188999405131,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 97.06183596038146,
+    "success3": false,
+    "map_range": 0.0032837645401488226,
+    "peak_value": 0.0032837645401488226,
+    "estimated_top_left": [
+      38.0,
+      174.0
+    ],
+    "true_top_left": [
+      83.0,
+      88.0
+    ],
+    "estimated_center": [
+      69.5,
+      205.5
+    ],
+    "true_center": [
+      114.5,
+      119.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 21.607527999940785,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 9,
+    "sidelobe_n": 7866,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      5,
+      0
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07362199999624863,
+    "peak_decode_time_s": 0.0017981999553740025,
+    "single_offset_compute_s": 0.9516188999405131,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.055361341246268465,
+    "peak_value": 0.055361341246268465,
+    "estimated_top_left": [
+      44.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 14.688907787691901,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07246830000076443,
+    "peak_decode_time_s": 0.0009777999948710203,
+    "single_offset_compute_s": 0.9496447999845259,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032718752657230395,
+    "peak_value": 0.0032718752657230395,
+    "estimated_top_left": [
+      44.0,
+      168.0
+    ],
+    "true_top_left": [
+      88.0,
+      83.0
+    ],
+    "estimated_center": [
+      75.5,
+      199.5
+    ],
+    "true_center": [
+      119.5,
+      114.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 20.169034567922008,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 13,
+    "sidelobe_n": 7841,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      0,
+      5
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07246830000076443,
+    "peak_decode_time_s": 0.0009777999948710203,
+    "single_offset_compute_s": 0.9496447999845259,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.05525059591985257,
+    "peak_value": 0.05525059591985257,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7084538274918564,
+    "PSR": 14.907137165990282,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07356809999328107,
+    "peak_decode_time_s": 0.0007746000192128122,
+    "single_offset_compute_s": 0.9505414000013843,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 96.60227740586657,
+    "success3": false,
+    "map_range": 0.0032632087864139362,
+    "peak_value": 0.0032632087864139362,
+    "estimated_top_left": [
+      34.0,
+      164.0
+    ],
+    "true_top_left": [
+      78.0,
+      78.0
+    ],
+    "estimated_center": [
+      65.5,
+      195.5
+    ],
+    "true_center": [
+      109.5,
+      109.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7365235436469121,
+    "PSR": 19.899288235879435,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      10,
+      10
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07356809999328107,
+    "peak_decode_time_s": 0.0007746000192128122,
+    "single_offset_compute_s": 0.9505414000013843,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.055361341246268465,
+    "peak_value": 0.055361341246268465,
+    "estimated_top_left": [
+      64.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.701612437035046,
+    "PSR": 11.42986037752598,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07135949999792501,
+    "peak_decode_time_s": 0.0007366000209003687,
+    "single_offset_compute_s": 0.9482948000077158,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 95.71311299921238,
+    "success3": false,
+    "map_range": 0.0032718752657230395,
+    "peak_value": 0.0032718752657230395,
+    "estimated_top_left": [
+      64.0,
+      158.0
+    ],
+    "true_top_left": [
+      108.0,
+      73.0
+    ],
+    "estimated_center": [
+      95.5,
+      189.5
+    ],
+    "true_center": [
+      139.5,
+      104.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": 0.7351769365443745,
+    "PSR": 14.913962483742655,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 16,
+    "sidelobe_n": 7840,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      -20,
+      15
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.07135949999792501,
+    "peak_decode_time_s": 0.0007366000209003687,
+    "single_offset_compute_s": 0.9482948000077158,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.0037383033294370177,
+    "peak_value": 0.0037383033294370177,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 5871.369642026033,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "MI",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.06795619998592883,
+    "peak_decode_time_s": 0.0006709999870508909,
+    "single_offset_compute_s": 0.9448258999618702,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  },
+  {
+    "err": 75.28612089887484,
+    "success3": false,
+    "map_range": 0.0002031399752320433,
+    "peak_value": 0.0002031399752320433,
+    "estimated_top_left": [
+      0.0,
+      176.0
+    ],
+    "true_top_left": [
+      48.0,
+      118.0
+    ],
+    "estimated_center": [
+      31.5,
+      207.5
+    ],
+    "true_center": [
+      79.5,
+      149.5
+    ],
+    "truth_in_sampled_domain": true,
+    "degenerate": false,
+    "peak_tie_count": 1,
+    "baseline_corrected_peak_drop": null,
+    "PSR": 6510.758763292282,
+    "peak_radius_px": 10.0,
+    "ring_samples": 16,
+    "ring_samples_available": 5,
+    "sidelobe_n": 7895,
+    "sidelobe_baseline": 0.0,
+    "dataset": "Label",
+    "pair_id": "Label_5_10",
+    "historical": true,
+    "strategy": "gated",
+    "measure": "CCRE",
+    "offset": [
+      40,
+      -30
+    ],
+    "seed": 0,
+    "detail_scale": 1.0,
+    "wavelet": "db2",
+    "level": 1,
+    "bins": 32,
+    "step": 2,
+    "feature_time_s": 0.8761986999888904,
+    "map_time_s": 0.06795619998592883,
+    "peak_decode_time_s": 0.0006709999870508909,
+    "single_offset_compute_s": 0.9448258999618702,
+    "timing_scope": "joint_MI_CCRE_one_offset_full_feature_charge_diagnostic"
+  }
+]
